@@ -1,0 +1,3001 @@
+Drug,Reaction,Serious,Age,Sex,Report_Date
+DOXORUBICIN,Hepatocellular injury,1,16,2,20140312
+DOXORUBICIN,Malignant neoplasm progression,1,60,1,20140312
+DOXORUBICIN,Septic shock,1,69,2,20140312
+DOXORUBICIN,Hyperkalaemia,1,67,1,20140312
+DOXORUBICIN,Leukoencephalopathy,1,69,2,20140313
+DOXORUBICIN,Cough,1,40,2,20140313
+DOXORUBICIN,Epistaxis,1,,2,20140313
+DOXORUBICIN,Prurigo,1,54,2,20140313
+DOXORUBICIN,Febrile neutropenia,1,3,1,20140313
+DOXORUBICIN,Off label use,1,,2,20140313
+DOXORUBICIN,Hypotension,1,34,2,20140311
+DOXORUBICIN,Disease progression,1,65,1,20140311
+DOXORUBICIN,Hepatic failure,1,68,2,20140313
+DOXORUBICIN,Malaise,1,47,2,20140314
+DOXORUBICIN,Death,1,79,1,20140314
+DOXORUBICIN,Gastric ulcer,1,25,2,20140314
+DOXORUBICIN,Anaemia,1,52,0,20140314
+DOXORUBICIN,Demyelination,1,26,1,20140312
+DOXORUBICIN,Disease progression,1,46,2,20140314
+DOXORUBICIN,Disease progression,1,65,1,20140312
+DOXORUBICIN,Hepatitis B,1,68,2,20140312
+DOXORUBICIN,Neutropenic sepsis,1,69,1,20140314
+DOXORUBICIN,Neurological symptom,1,,,20140314
+DOXORUBICIN,Breast cancer,1,,2,20140314
+DOXORUBICIN,Pneumonia,1,12,1,20140312
+DOXORUBICIN,Hepatic cirrhosis,1,27,1,20140312
+DOXORUBICIN,Hepatic cirrhosis,1,43,1,20140312
+DOXORUBICIN,Breast cancer,1,,2,20140314
+DOXORUBICIN,Cough,1,69,1,20140312
+DOXORUBICIN,Myelodysplastic syndrome,1,18,2,20140313
+DOXORUBICIN,Acute myeloid leukaemia,1,8,2,20140313
+DOXORUBICIN,Ejection fraction decreased,1,68,2,20140314
+DOXORUBICIN,Cellulitis,1,65,2,20140314
+DOXORUBICIN,Refractory cytopenia with multilineage dysplasia,1,83,1,20140314
+DOXORUBICIN,Blood calcium increased,1,,2,20140314
+DOXORUBICIN,Febrile neutropenia,1,44,2,20140315
+DOXORUBICIN,Vena cava thrombosis,1,43,2,20140315
+DOXORUBICIN,Pancytopenia,1,54,2,20140317
+DOXORUBICIN,Death,1,,2,20140317
+DOXORUBICIN,Arthritis,1,47,2,20140317
+DOXORUBICIN,Hypokalaemia,1,,,20140317
+DOXORUBICIN,Disease progression,1,,,20140317
+DOXORUBICIN,Overdose,1,43,1,20140317
+DOXORUBICIN,Grand mal convulsion,1,11,2,20140317
+DOXORUBICIN,Temporal lobe epilepsy,1,11,1,20140317
+DOXORUBICIN,Hepatocellular carcinoma,1,,0,20140317
+DOXORUBICIN,Phlebitis,2,,0,20140318
+DOXORUBICIN,Cardiac failure,1,60,1,20140318
+DOXORUBICIN,Ovarian failure,1,28,2,20140318
+DOXORUBICIN,Hepatitis B,1,43,1,20140312
+DOXORUBICIN,Dyspnoea,1,60,1,20140318
+DOXORUBICIN,Neutropenic sepsis,1,58,2,20140318
+DOXORUBICIN,Castleman^s disease,1,65,1,20140318
+DOXORUBICIN,Interstitial lung disease,1,54,1,20140318
+DOXORUBICIN,Renal failure acute,1,58,2,20140319
+DOXORUBICIN,Platelet count decreased,1,56,1,20140319
+DOXORUBICIN,Febrile neutropenia,1,67,1,20140319
+DOXORUBICIN,Febrile neutropenia,1,61,2,20140319
+DOXORUBICIN,Febrile neutropenia,1,50,2,20140319
+DOXORUBICIN,Septic shock,1,32,1,20140319
+DOXORUBICIN,Cardiotoxicity,1,,2,20140319
+DOXORUBICIN,Platelet count decreased,1,43,1,20140318
+DOXORUBICIN,Febrile neutropenia,1,54,1,20140319
+DOXORUBICIN,Chronic myeloid leukaemia,1,,2,20131231
+DOXORUBICIN,Anaemia,1,50,2,20140320
+DOXORUBICIN,Death,1,,0,20140320
+DOXORUBICIN,Gastric haemorrhage,1,60,2,20140320
+DOXORUBICIN,Acquired gene mutation,1,64,2,20140320
+DOXORUBICIN,Blood test abnormal,1,65,2,20140320
+DOXORUBICIN,Lymphadenitis,1,65,2,20140320
+DOXORUBICIN,Bone marrow transplant,1,57,2,20140320
+DOXORUBICIN,Hypotension,1,15,1,20140320
+DOXORUBICIN,Somnolence,1,28,1,20140320
+DOXORUBICIN,Cerebral artery embolism,1,66,2,20140314
+DOXORUBICIN,Invasive ductal breast carcinoma,1,43,1,20140318
+DOXORUBICIN,Ascites,1,35,1,20140321
+DOXORUBICIN,Gastrointestinal disorder,1,51,2,20140318
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,71,2,20140321
+DOXORUBICIN,Neutropenia,1,,1,20140321
+DOXORUBICIN,General physical health deterioration,1,,2,20140321
+DOXORUBICIN,Atelectasis,1,52,2,20140307
+DOXORUBICIN,Bone marrow failure,1,10,2,20140321
+DOXORUBICIN,Bone marrow failure,1,6,2,20140321
+DOXORUBICIN,Bone marrow failure,1,6,2,20140321
+DOXORUBICIN,Visual impairment,1,,0,20140321
+DOXORUBICIN,Death,1,30,2,20140322
+DOXORUBICIN,Hypomagnesaemia,1,10,2,20140322
+DOXORUBICIN,Osteosarcoma,1,,0,20140322
+DOXORUBICIN,Osteosarcoma,1,,0,20140322
+DOXORUBICIN,Febrile neutropenia,1,43,1,20140322
+DOXORUBICIN,Cyanosis,1,16,2,20140320
+DOXORUBICIN,Plasmacytoma,1,65,2,20140306
+DOXORUBICIN,Cough,1,58,1,20140323
+DOXORUBICIN,Pyrexia,1,53,1,20140324
+DOXORUBICIN,Sarcoidosis,1,33,2,20140324
+DOXORUBICIN,Failure to thrive,1,83,2,20140324
+DOXORUBICIN,Anaemia,1,69,1,20140325
+DOXORUBICIN,Haematemesis,1,44,1,20140324
+DOXORUBICIN,Rectal haemorrhage,1,40,1,20140324
+DOXORUBICIN,Left ventricular dysfunction,1,50,2,20140325
+DOXORUBICIN,Bone marrow failure,1,10,2,20140325
+DOXORUBICIN,Squamous cell carcinoma,1,69,1,20140325
+DOXORUBICIN,Decreased appetite,1,6,2,20140325
+DOXORUBICIN,Bone marrow failure,1,6,2,20140325
+DOXORUBICIN,Infection,1,63,1,20140325
+DOXORUBICIN,Neutropenic colitis,1,54,1,20140325
+DOXORUBICIN,Cholangitis,1,56,2,20140325
+DOXORUBICIN,Bone marrow failure,1,6,2,20140325
+DOXORUBICIN,Pulmonary hypertension,1,68,2,20140325
+DOXORUBICIN,Osteosarcoma,1,,0,20140325
+DOXORUBICIN,Meningitis,1,66,2,20140326
+DOXORUBICIN,Muscular weakness,2,47,2,20140326
+DOXORUBICIN,Neutropenia,1,69,1,20140326
+DOXORUBICIN,Febrile neutropenia,1,57,1,20140326
+DOXORUBICIN,Nausea,1,50,1,20140325
+DOXORUBICIN,Interstitial lung disease,1,67,1,20140326
+DOXORUBICIN,Neutrophil count decreased,1,,0,20140326
+DOXORUBICIN,Neutropenia,1,,0,20140326
+DOXORUBICIN,Ejection fraction decreased,1,,2,20140326
+DOXORUBICIN,Vomiting,1,47,1,20140327
+DOXORUBICIN,Neutrophil count abnormal,1,85,2,20140327
+DOXORUBICIN,Cardiotoxicity,1,,2,20140327
+DOXORUBICIN,Sepsis,1,,0,20140327
+DOXORUBICIN,Chest pain,1,,0,20140327
+DOXORUBICIN,Sepsis,1,,2,20140327
+DOXORUBICIN,Rectal haemorrhage,1,40,1,20140326
+DOXORUBICIN,Squamous cell carcinoma,1,71,1,20140326
+DOXORUBICIN,B precursor type acute leukaemia,1,24,2,20140327
+DOXORUBICIN,Disease progression,1,,0,20140327
+DOXORUBICIN,Metastases to lymph nodes,1,,0,20140327
+DOXORUBICIN,Disease progression,1,,0,20140327
+DOXORUBICIN,Metastases to lymph nodes,1,,0,20140327
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140327
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140327
+DOXORUBICIN,Neutropenic sepsis,1,69,1,20140327
+DOXORUBICIN,Disease progression,1,,0,20140327
+DOXORUBICIN,Disease progression,1,,0,20140327
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140327
+DOXORUBICIN,Disease progression,1,,0,20140327
+DOXORUBICIN,Disease progression,1,,0,20140327
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140327
+DOXORUBICIN,Disease progression,1,,0,20140327
+DOXORUBICIN,Pleuritic pain,1,59,1,20140327
+DOXORUBICIN,Lower respiratory tract infection,1,65,2,20140328
+DOXORUBICIN,Disease progression,1,50,1,20140328
+DOXORUBICIN,Myelodysplastic syndrome,1,69,1,20140327
+DOXORUBICIN,Submandibular mass,1,40,2,20140326
+DOXORUBICIN,Palmar-plantar erythrodysaesthesia syndrome,1,60,1,20140328
+DOXORUBICIN,Fall,1,,0,20140328
+DOXORUBICIN,Gastrointestinal perforation,1,,2,20140329
+DOXORUBICIN,Intestinal fistula,1,,2,20140329
+DOXORUBICIN,Hypophosphataemia,1,69,1,20140329
+DOXORUBICIN,Female genital tract fistula,1,,2,20140329
+DOXORUBICIN,Colon injury,1,,2,20140329
+DOXORUBICIN,Deep vein thrombosis,1,78,2,20140329
+DOXORUBICIN,General physical health deterioration,1,51,2,20140330
+DOXORUBICIN,Squamous cell carcinoma of the tongue,1,74,2,20140331
+DOXORUBICIN,Pneumocystis jirovecii pneumonia,1,43,2,20140331
+DOXORUBICIN,Infection in an immunocompromised host,1,,,20140331
+DOXORUBICIN,Nephrogenic systemic fibrosis,1,11,1,20140331
+DOXORUBICIN,Type I hypersensitivity,1,42,2,20140331
+DOXORUBICIN,Hypophosphataemia,1,69,1,20140401
+DOXORUBICIN,Death,1,30,2,20140401
+DOXORUBICIN,Syncope,1,65,2,20140331
+DOXORUBICIN,Ototoxicity,1,,0,20140401
+DOXORUBICIN,Leiomyosarcoma recurrent,1,86,2,20140401
+DOXORUBICIN,Venoocclusive liver disease,1,,0,20140401
+DOXORUBICIN,Cardio-respiratory arrest,1,,0,20140328
+DOXORUBICIN,Ischaemic stroke,1,76,0,20140328
+DOXORUBICIN,Cardiac arrest,1,,0,20140328
+DOXORUBICIN,Renal impairment,1,67,1,20140401
+DOXORUBICIN,Platelet count decreased,1,53,1,20140401
+DOXORUBICIN,Cardio-respiratory arrest,1,44,2,20140401
+DOXORUBICIN,Hypertensive crisis,1,,2,20140402
+DOXORUBICIN,Erythema,1,42,2,20140401
+DOXORUBICIN,Chest pain,1,56,2,20140401
+DOXORUBICIN,Back pain,1,56,2,20140401
+DOXORUBICIN,Flushing,1,73,2,20140401
+DOXORUBICIN,Dyspnoea,1,44,2,20140401
+DOXORUBICIN,Infusion related reaction,1,89,1,20140401
+DOXORUBICIN,Malaise,1,47,2,20140402
+DOXORUBICIN,Rash,1,48,2,20140401
+DOXORUBICIN,Cholelithiasis,1,,0,20140402
+DOXORUBICIN,Renal failure,1,,0,20140402
+DOXORUBICIN,Second primary malignancy,1,66,1,20140331
+DOXORUBICIN,Hypophosphataemia,1,69,1,20140331
+DOXORUBICIN,Infection,1,24,2,20140331
+DOXORUBICIN,Migraine,1,5,1,20140402
+DOXORUBICIN,Post embolisation syndrome,1,,0,20140402
+DOXORUBICIN,Migraine,1,5,1,20140402
+DOXORUBICIN,Neoplasm progression,1,3,2,20140402
+DOXORUBICIN,Non-small cell lung cancer,1,,,20140403
+DOXORUBICIN,Death,1,,0,20140403
+DOXORUBICIN,Hyponatraemia,1,52,2,20140403
+DOXORUBICIN,Granuloma,1,71,1,20140403
+DOXORUBICIN,Dehydration,1,33,1,20140401
+DOXORUBICIN,Hypomagnesaemia,1,10,2,20140401
+DOXORUBICIN,Febrile neutropenia,1,6,2,20140401
+DOXORUBICIN,Sensory loss,1,30,1,20140401
+DOXORUBICIN,Cholelithiasis,1,71,2,20140403
+DOXORUBICIN,Hypertension,1,,2,20140404
+DOXORUBICIN,Septic shock,1,54,2,20140404
+DOXORUBICIN,Generalised tonic-clonic seizure,1,13,2,20140403
+DOXORUBICIN,Cardiac arrest,1,,0,20140402
+DOXORUBICIN,Ischaemic stroke,1,76,0,20140402
+DOXORUBICIN,Dizziness,1,,0,20140402
+DOXORUBICIN,Osteosarcoma,1,9,1,20140407
+DOXORUBICIN,Autoimmune haemolytic anaemia,1,66,1,20140407
+DOXORUBICIN,Anaemia,1,,2,20140407
+DOXORUBICIN,Febrile neutropenia,1,54,0,20140407
+DOXORUBICIN,Death,1,,0,20140407
+DOXORUBICIN,Febrile neutropenia,1,76,0,20140407
+DOXORUBICIN,Febrile neutropenia,1,60,0,20140407
+DOXORUBICIN,Ileus,1,36,0,20140403
+DOXORUBICIN,Acute lymphocytic leukaemia,1,5,1,20140407
+DOXORUBICIN,Lethargy,1,11,1,20140407
+DOXORUBICIN,Hypoaesthesia,1,42,2,20140404
+DOXORUBICIN,Fatigue,1,3,2,20140407
+DOXORUBICIN,Cardiomyopathy,1,44,2,20140408
+DOXORUBICIN,Hypophagia,1,35,2,20140404
+DOXORUBICIN,Cataract,1,58,1,20140404
+DOXORUBICIN,Neutropenia,1,,0,20140408
+DOXORUBICIN,Neutropenia,1,43,2,20140409
+DOXORUBICIN,Death,1,30,2,20140409
+DOXORUBICIN,Disease progression,2,27,2,20140409
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,22,2,20140409
+DOXORUBICIN,Hepatic cirrhosis,1,58,1,20140408
+DOXORUBICIN,Flushing,1,62,2,20140409
+DOXORUBICIN,Pyrexia,1,67,2,20140409
+DOXORUBICIN,Burkitt^s leukaemia,1,49,1,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Febrile neutropenia,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Death,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Death,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Death,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Death,1,,0,20140410
+DOXORUBICIN,Death,1,,0,20140410
+DOXORUBICIN,Death,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Febrile neutropenia,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Febrile neutropenia,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Febrile neutropenia,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Disease progression,1,,0,20140410
+DOXORUBICIN,Fibrin D dimer increased,1,,0,20140410
+DOXORUBICIN,Febrile neutropenia,1,46,2,20140410
+DOXORUBICIN,Hyperthermia,1,6,2,20140411
+DOXORUBICIN,Transient ischaemic attack,1,61,2,20140411
+DOXORUBICIN,White blood cell disorder,1,31,1,20140411
+DOXORUBICIN,Blood test abnormal,1,63,2,20140411
+DOXORUBICIN,Ileus,1,20,2,20140314
+DOXORUBICIN,Febrile neutropenia,1,68,1,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Fibrin D dimer increased,1,,0,20140411
+DOXORUBICIN,Death,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Death,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Death,1,,0,20140411
+DOXORUBICIN,Death,1,,0,20140411
+DOXORUBICIN,Death,1,,0,20140411
+DOXORUBICIN,Death,1,,0,20140411
+DOXORUBICIN,Death,1,,0,20140411
+DOXORUBICIN,Death,1,,0,20140411
+DOXORUBICIN,Death,1,,0,20140411
+DOXORUBICIN,Disease progression,1,,0,20140411
+DOXORUBICIN,Interstitial lung disease,1,59,1,20140411
+DOXORUBICIN,Leukaemia,1,76,2,20140414
+DOXORUBICIN,Vitamin B12 deficiency,1,82,2,20140411
+DOXORUBICIN,Device related infection,1,55,2,20140319
+DOXORUBICIN,Thrombocytopenia,1,,,20140414
+DOXORUBICIN,Second primary malignancy,1,66,1,20140414
+DOXORUBICIN,Febrile neutropenia,1,30,1,20140410
+DOXORUBICIN,Hepatotoxicity,1,,2,20140414
+DOXORUBICIN,Cardiac failure congestive,1,34,2,20140414
+DOXORUBICIN,Infection,1,,0,20140414
+DOXORUBICIN,Pyrexia,1,55,0,20140414
+DOXORUBICIN,Gastrointestinal disorder,1,51,2,20140410
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,69,2,20140414
+DOXORUBICIN,Leukopenia,1,,,20140415
+DOXORUBICIN,Tumour lysis syndrome,1,17,1,20140415
+DOXORUBICIN,Branchial cyst,1,40,2,20140403
+DOXORUBICIN,Pancytopenia,1,60,1,20140415
+DOXORUBICIN,Premature baby,1,,2,20140415
+DOXORUBICIN,Hypotension,1,34,2,20140415
+DOXORUBICIN,Premature baby,1,,0,20140415
+DOXORUBICIN,Small intestinal obstruction,1,59,1,20140415
+DOXORUBICIN,General physical health deterioration,1,68,2,20140415
+DOXORUBICIN,Ventricular hypokinesia,1,26,1,20140415
+DOXORUBICIN,Hepatosplenic candidiasis,1,68,1,20140415
+DOXORUBICIN,Arthralgia,1,58,2,20140416
+DOXORUBICIN,Agranulocytosis,1,60,2,20140416
+DOXORUBICIN,Diphyllobothriasis,1,47,1,20140414
+DOXORUBICIN,Neutropenic sepsis,1,24,2,20140416
+DOXORUBICIN,Herpes ophthalmic,1,75,1,20140416
+DOXORUBICIN,Death,1,37,2,20140417
+DOXORUBICIN,Bone marrow failure,1,55,1,20140417
+DOXORUBICIN,Hypotension,1,53,1,20140416
+DOXORUBICIN,Interstitial lung disease,1,55,1,20140417
+DOXORUBICIN,Stomatitis,1,76,2,20140415
+DOXORUBICIN,Infection,1,,0,20140417
+DOXORUBICIN,Platelet count decreased,1,,1,20140417
+DOXORUBICIN,Small intestinal obstruction,1,68,2,20140418
+DOXORUBICIN,Death,1,46,0,20140416
+DOXORUBICIN,Hepatosplenic candidiasis,1,68,1,20140418
+DOXORUBICIN,Drug level increased,1,67,2,20140416
+DOXORUBICIN,Asthenia,1,66,1,20140416
+DOXORUBICIN,Pancytopenia,1,79,2,20140418
+DOXORUBICIN,B-cell lymphoma,1,69,1,20140418
+DOXORUBICIN,Diaphragm muscle weakness,1,77,1,20140418
+DOXORUBICIN,Rhodococcus infection,1,75,1,20140418
+DOXORUBICIN,Disease progression,1,,0,20140418
+DOXORUBICIN,Stevens-Johnson syndrome,1,,1,20140419
+DOXORUBICIN,Non-Hodgkin^s lymphoma recurrent,1,69,1,20140419
+DOXORUBICIN,Gastrointestinal haemorrhage,1,64,2,20140420
+DOXORUBICIN,Anaphylactic shock,1,6,2,20140421
+DOXORUBICIN,Ejection fraction decreased,1,,0,20140421
+DOXORUBICIN,Prostate cancer,1,57,1,20140421
+DOXORUBICIN,Activities of daily living impaired,1,,,20140421
+DOXORUBICIN,Sinus tachycardia,1,,,20140421
+DOXORUBICIN,Bone marrow failure,1,,0,20140421
+DOXORUBICIN,Product use issue,1,80,2,20140421
+DOXORUBICIN,Sudden cardiac death,1,,0,20140421
+DOXORUBICIN,Invasive ductal breast carcinoma,1,73,2,20140421
+DOXORUBICIN,Bladder cancer,1,66,1,20140421
+DOXORUBICIN,Blood pressure fluctuation,1,50,2,20140422
+DOXORUBICIN,Toxicity to various agents,1,,0,20140422
+DOXORUBICIN,Death,1,,0,20140422
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,69,1,20140422
+DOXORUBICIN,General physical health deterioration,1,68,2,20140422
+DOXORUBICIN,Disease progression,1,,2,20140422
+DOXORUBICIN,Secondary immunodeficiency,1,,1,20140422
+DOXORUBICIN,Tumour lysis syndrome,1,57,1,20140423
+DOXORUBICIN,Vision blurred,1,50,2,20140422
+DOXORUBICIN,Neutropenic infection,1,56,2,20140423
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,75,1,20140423
+DOXORUBICIN,Leukopenia,1,48,2,20140423
+DOXORUBICIN,Pancreatitis necrotising,1,69,1,20140423
+DOXORUBICIN,Vomiting,1,64,1,20140423
+DOXORUBICIN,Spinal cord injury,1,57,1,20140423
+DOXORUBICIN,Neutropenic sepsis,1,24,2,20140424
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140424
+DOXORUBICIN,Respiratory failure,1,,0,20140424
+DOXORUBICIN,Infection,1,,0,20140424
+DOXORUBICIN,Respiratory failure,1,,0,20140424
+DOXORUBICIN,Unevaluable event,1,,0,20140424
+DOXORUBICIN,Non-cardiac chest pain,1,,0,20140424
+DOXORUBICIN,Death,1,,2,20140424
+DOXORUBICIN,Pyrexia,1,46,1,20140423
+DOXORUBICIN,Neutrophil count decreased,1,51,1,20140423
+DOXORUBICIN,Toxicity to various agents,1,,0,20140424
+DOXORUBICIN,Hypophosphataemia,1,16,1,20140424
+DOXORUBICIN,Disease progression,1,,0,20140424
+DOXORUBICIN,Cerebral haemangioma,1,36,2,20140424
+DOXORUBICIN,Cerebral haemangioma,1,20,1,20140424
+DOXORUBICIN,Hepatosplenic candidiasis,1,68,1,20140423
+DOXORUBICIN,Vomiting,1,,,20140425
+DOXORUBICIN,Infection,1,,0,20140425
+DOXORUBICIN,Hepatotoxicity,1,,,20140425
+DOXORUBICIN,Cardiotoxicity,1,,0,20140425
+DOXORUBICIN,Plasma cell myeloma,1,,,20140425
+DOXORUBICIN,Interstitial lung disease,1,52,2,20140423
+DOXORUBICIN,Gastritis,1,51,2,20140423
+DOXORUBICIN,Leukaemia recurrent,1,17,2,20140425
+DOXORUBICIN,Pneumonia,1,80,1,20140423
+DOXORUBICIN,Bronchial disorder,1,72,1,20140425
+DOXORUBICIN,Urticaria,1,74,2,20140425
+DOXORUBICIN,Toxic skin eruption,1,78,1,20140425
+DOXORUBICIN,Vomiting,1,64,1,20140425
+DOXORUBICIN,Blister,1,,2,20140425
+DOXORUBICIN,Death,1,36,2,20140425
+DOXORUBICIN,Febrile neutropenia,1,64,1,20140425
+DOXORUBICIN,Diaphragm muscle weakness,1,77,1,20140425
+DOXORUBICIN,Septic shock,1,30,2,20140425
+DOXORUBICIN,Throat tightness,1,53,2,20140425
+DOXORUBICIN,Disease progression,1,,0,20140425
+DOXORUBICIN,Disease progression,1,,0,20140425
+DOXORUBICIN,Disease progression,1,,0,20140425
+DOXORUBICIN,Disease progression,1,,0,20140425
+DOXORUBICIN,Disease progression,1,,0,20140425
+DOXORUBICIN,Disease progression,1,,0,20140425
+DOXORUBICIN,Disease progression,1,,0,20140425
+DOXORUBICIN,Disease progression,1,,0,20140425
+DOXORUBICIN,Nuclear magnetic resonance imaging abnormal,1,,0,20140425
+DOXORUBICIN,Ventricular extrasystoles,1,,0,20140425
+DOXORUBICIN,Fungal infection,1,68,1,20140425
+DOXORUBICIN,Infectious colitis,1,41,2,20140425
+DOXORUBICIN,Left ventricular dysfunction,1,,0,20140425
+DOXORUBICIN,Retinal detachment,1,,2,20140428
+DOXORUBICIN,Tubulointerstitial nephritis,1,,1,20140428
+DOXORUBICIN,Hypertension,1,,2,20140428
+DOXORUBICIN,Paraplegia,1,57,1,20140428
+DOXORUBICIN,Cerebral haemangioma,1,8,1,20140428
+DOXORUBICIN,Neutrophil count decreased,1,59,2,20140429
+DOXORUBICIN,General physical health deterioration,1,38,2,20140425
+DOXORUBICIN,Anal fistula,1,50,2,20140429
+DOXORUBICIN,General physical health deterioration,1,73,1,20140429
+DOXORUBICIN,Vomiting,1,,1,20140429
+DOXORUBICIN,General physical health deterioration,1,84,2,20140429
+DOXORUBICIN,Respiratory arrest,1,,1,20140430
+DOXORUBICIN,Neutropenia,1,58,1,20140429
+DOXORUBICIN,Malaise,1,76,2,20140429
+DOXORUBICIN,Congestive cardiomyopathy,1,55,1,20140425
+DOXORUBICIN,Somnolence,1,12,2,20140430
+DOXORUBICIN,Porphyria non-acute,1,8,2,20140501
+DOXORUBICIN,Febrile neutropenia,1,45,2,20140501
+DOXORUBICIN,Hypernatraemia,1,66,1,20140501
+DOXORUBICIN,Fall,1,,0,20140501
+DOXORUBICIN,Flushing,1,76,1,20140430
+DOXORUBICIN,Hypertension,1,55,2,20140501
+DOXORUBICIN,Asthma,1,53,2,20140430
+DOXORUBICIN,Throat tightness,1,53,2,20140501
+DOXORUBICIN,Throat tightness,1,53,2,20140502
+DOXORUBICIN,Peripheral artery thrombosis,1,69,2,20140502
+DOXORUBICIN,Sepsis,1,70,2,20140502
+DOXORUBICIN,Anaemia,1,70,2,20140502
+DOXORUBICIN,Vomiting,1,64,1,20140502
+DOXORUBICIN,Metabolic acidosis,1,61,1,20140430
+DOXORUBICIN,Hypogammaglobulinaemia,1,75,1,20140430
+DOXORUBICIN,Throat tightness,1,53,2,20140502
+DOXORUBICIN,Tumour lysis syndrome,1,,0,20140502
+DOXORUBICIN,Peripheral artery thrombosis,1,69,2,20140502
+DOXORUBICIN,Disease progression,1,,2,20140504
+DOXORUBICIN,Myocardial infarction,1,64,0,20140502
+DOXORUBICIN,Encephalopathy,1,4,1,20140505
+DOXORUBICIN,Systolic dysfunction,1,50,2,20140505
+DOXORUBICIN,Strongyloidiasis,1,,1,20140501
+DOXORUBICIN,Toxicity to various agents,1,,,20140505
+DOXORUBICIN,Toxicity to various agents,1,,,20140505
+DOXORUBICIN,Toxicity to various agents,1,,,20140505
+DOXORUBICIN,Biliary cirrhosis primary,1,75,2,20140505
+DOXORUBICIN,Pyoderma gangrenosum,1,42,1,20140505
+DOXORUBICIN,Second primary malignancy,1,,1,20140505
+DOXORUBICIN,Atelectasis,1,13,1,20140506
+DOXORUBICIN,Sepsis,1,,0,20140506
+DOXORUBICIN,Sepsis,1,69,1,20140506
+DOXORUBICIN,Left ventricular dysfunction,1,55,2,20140506
+DOXORUBICIN,Functional gastrointestinal disorder,1,50,2,20140502
+DOXORUBICIN,Death,1,36,2,20140506
+DOXORUBICIN,Nausea,1,62,2,20140506
+DOXORUBICIN,Haematemesis,1,35,2,20140506
+DOXORUBICIN,Small cell lung cancer metastatic,1,68,1,20140506
+DOXORUBICIN,Herpes zoster,1,,2,20140506
+DOXORUBICIN,Leukoencephalopathy,1,,1,20140506
+DOXORUBICIN,Disease progression,1,61,2,20140506
+DOXORUBICIN,Metastatic malignant melanoma,1,92,1,20140507
+DOXORUBICIN,Neutrophil count decreased,1,52,2,20140506
+DOXORUBICIN,Infusion site erythema,1,,,20140507
+DOXORUBICIN,Sepsis,1,3,1,20140507
+DOXORUBICIN,Encephalopathy,1,4,1,20140508
+DOXORUBICIN,Asthenia,1,68,2,20140508
+DOXORUBICIN,Large intestinal obstruction,1,72,2,20140508
+DOXORUBICIN,Mastocytosis,1,71,2,20140508
+DOXORUBICIN,Vomiting,1,55,2,20140508
+DOXORUBICIN,Agranulocytosis,1,41,1,20140508
+DOXORUBICIN,Agranulocytosis,1,73,1,20140508
+DOXORUBICIN,Hypertension,1,55,2,20140508
+DOXORUBICIN,Brain abscess,1,,0,20140508
+DOXORUBICIN,Dyspnoea,2,,2,20140509
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,43,2,20140509
+DOXORUBICIN,Paraplegia,1,57,1,20140507
+DOXORUBICIN,Tubulointerstitial nephritis,1,25,1,20140507
+DOXORUBICIN,Peripheral swelling,1,58,2,20140508
+DOXORUBICIN,Cerebral haemangioma,1,8,2,20140507
+DOXORUBICIN,Convulsion,1,36,2,20140507
+DOXORUBICIN,Infection reactivation,1,6,1,20140509
+DOXORUBICIN,Parvovirus infection,1,4,1,20140509
+DOXORUBICIN,Adverse event,1,,0,20140509
+DOXORUBICIN,Venoocclusive disease,1,31,2,20140512
+DOXORUBICIN,Dehydration,1,63,2,20140512
+DOXORUBICIN,Strongyloidiasis,1,,1,20140512
+DOXORUBICIN,Leukocytosis,1,60,1,20140512
+DOXORUBICIN,Death,1,55,1,20140512
+DOXORUBICIN,Thrombocytopenia,1,,,20140512
+DOXORUBICIN,Toxicity to various agents,1,,0,20140512
+DOXORUBICIN,Toxicity to various agents,1,,0,20140512
+DOXORUBICIN,Respiratory disorder,1,12,1,20140513
+DOXORUBICIN,Cardiac disorder,1,,0,20140513
+DOXORUBICIN,Renal failure acute,1,40,1,20140513
+DOXORUBICIN,Paraplegia,1,57,1,20140509
+DOXORUBICIN,Interstitial lung disease,1,19,2,20140509
+DOXORUBICIN,Pain,1,59,2,20140512
+DOXORUBICIN,Sepsis,1,5,1,20140513
+DOXORUBICIN,Sepsis,1,5,1,20140513
+DOXORUBICIN,Death,1,,0,20140513
+DOXORUBICIN,Left ventricular dysfunction,1,55,2,20140509
+DOXORUBICIN,Pulmonary embolism,1,79,2,20140513
+DOXORUBICIN,Sepsis,1,64,1,20140513
+DOXORUBICIN,Acute hepatitis C,1,42,2,20140513
+DOXORUBICIN,Death,1,17,1,20140513
+DOXORUBICIN,Diarrhoea,1,75,2,20140514
+DOXORUBICIN,Anaemia,1,,1,20140514
+DOXORUBICIN,Erysipelas,1,69,2,20140514
+DOXORUBICIN,Acute myeloid leukaemia,1,,0,20140514
+DOXORUBICIN,Mallory-Weiss syndrome,1,35,2,20140514
+DOXORUBICIN,Angiopathy,1,,2,20140515
+DOXORUBICIN,B-cell lymphoma,1,,2,20140515
+DOXORUBICIN,Neutropenia,1,66,2,20140515
+DOXORUBICIN,Strongyloidiasis,1,5,1,20140515
+DOXORUBICIN,Abdominal pain,1,52,2,20140515
+DOXORUBICIN,Febrile neutropenia,1,47,2,20140515
+DOXORUBICIN,Sepsis,1,5,1,20140515
+DOXORUBICIN,Bacterial sepsis,1,64,1,20140515
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,71,2,20140515
+DOXORUBICIN,Pleural effusion,1,69,2,20140516
+DOXORUBICIN,Death,1,30,2,20140516
+DOXORUBICIN,Medication error,1,20,1,20140516
+DOXORUBICIN,Diaphragm muscle weakness,1,77,1,20140516
+DOXORUBICIN,Malaise,1,67,2,20140515
+DOXORUBICIN,Ventricular tachycardia,1,64,1,20140516
+DOXORUBICIN,Bacillus infection,1,33,1,20140514
+DOXORUBICIN,Neutropenia,1,69,1,20140514
+DOXORUBICIN,Dehydration,1,39,2,20140516
+DOXORUBICIN,Potentiating drug interaction,1,20,1,20140516
+DOXORUBICIN,Syncope,1,39,2,20140516
+DOXORUBICIN,Therapy responder,1,46,1,20140516
+DOXORUBICIN,Haematotoxicity,1,38,2,20140516
+DOXORUBICIN,Death,1,65,2,20140516
+DOXORUBICIN,Febrile neutropenia,1,32,1,20140518
+DOXORUBICIN,Febrile neutropenia,1,62,2,20140519
+DOXORUBICIN,Drug-induced liver injury,1,39,2,20140519
+DOXORUBICIN,Blood creatine increased,1,20,1,20140519
+DOXORUBICIN,Chest pain,1,61,2,20140519
+DOXORUBICIN,Infusion related reaction,1,37,1,20140519
+DOXORUBICIN,Haematotoxicity,1,,2,20140519
+DOXORUBICIN,Optic atrophy,1,6,1,20140519
+DOXORUBICIN,Osteoporosis,1,14,2,20140519
+DOXORUBICIN,Hepatotoxicity,1,15,2,20140519
+DOXORUBICIN,Graft versus host disease,1,8,2,20140519
+DOXORUBICIN,Cardiac failure,1,59,2,20140519
+DOXORUBICIN,Leukopenia,2,82,2,20140516
+DOXORUBICIN,Leukopenia,2,82,2,20140516
+DOXORUBICIN,Vomiting,1,27,1,20140515
+DOXORUBICIN,Neutrophil count decreased,1,41,1,20140519
+DOXORUBICIN,White blood cell count decreased,1,62,1,20140519
+DOXORUBICIN,Febrile neutropenia,1,62,2,20140519
+DOXORUBICIN,Pneumonitis,1,55,1,20140519
+DOXORUBICIN,Diabetes mellitus,1,56,1,20140519
+DOXORUBICIN,Skin infection,1,,,20140519
+DOXORUBICIN,Skin infection,1,79,2,20140520
+DOXORUBICIN,Pulmonary embolism,1,64,1,20140520
+DOXORUBICIN,Herpes zoster,1,66,1,20140516
+DOXORUBICIN,Epstein-Barr viraemia,1,53,2,20140516
+DOXORUBICIN,Lower respiratory tract infection,1,79,2,20140520
+DOXORUBICIN,Renal impairment,1,20,1,20140520
+DOXORUBICIN,Chemotherapeutic drug level increased,1,20,1,20140520
+DOXORUBICIN,Bone marrow failure,1,63,2,20140520
+DOXORUBICIN,Diaphragm muscle weakness,1,77,1,20140520
+DOXORUBICIN,Pulmonary embolism,1,42,2,20140521
+DOXORUBICIN,Rhinitis,1,59,1,20140521
+DOXORUBICIN,Embolism,1,71,1,20140521
+DOXORUBICIN,Upper respiratory tract infection,1,79,2,20140521
+DOXORUBICIN,Renal failure acute,1,40,1,20140521
+DOXORUBICIN,Blood creatinine increased,1,20,1,20140519
+DOXORUBICIN,Hepatitis B,1,61,1,20140521
+DOXORUBICIN,Enterocolitis,1,4,1,20140521
+DOXORUBICIN,Muscle contracture,1,7,2,20140521
+DOXORUBICIN,Systemic candida,1,,0,20140521
+DOXORUBICIN,Liver disorder,1,17,1,20140521
+DOXORUBICIN,Neutropenia,1,64,2,20140521
+DOXORUBICIN,T-cell type acute leukaemia,1,,0,20140521
+DOXORUBICIN,Klebsiella sepsis,1,69,1,20140521
+DOXORUBICIN,Pneumocystis jirovecii infection,1,73,1,20140521
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,71,2,20140521
+DOXORUBICIN,Neutrophil count increased,1,62,1,20140521
+DOXORUBICIN,Duodenal stenosis,1,62,2,20140521
+DOXORUBICIN,Leukopenia,1,62,1,20140522
+DOXORUBICIN,Pyrexia,1,55,2,20140522
+DOXORUBICIN,Blood albumin decreased,1,39,2,20140522
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,71,2,20140522
+DOXORUBICIN,Acute lymphocytic leukaemia,1,16,2,20140522
+DOXORUBICIN,Vision blurred,1,64,1,20140522
+DOXORUBICIN,Encephalopathy,1,57,2,20140522
+DOXORUBICIN,Diarrhoea,1,73,1,20140522
+DOXORUBICIN,Sarcoma metastatic,1,62,1,20140522
+DOXORUBICIN,Arterial thrombosis,1,69,2,20140522
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,71,2,20140522
+DOXORUBICIN,Neutropenia,1,37,2,20140522
+DOXORUBICIN,Death,1,,0,20140522
+DOXORUBICIN,Recurrent cancer,1,,0,20140522
+DOXORUBICIN,Femur fracture,1,,,20140523
+DOXORUBICIN,Oesophageal candidiasis,1,77,1,20140523
+DOXORUBICIN,Febrile neutropenia,1,,0,20140523
+DOXORUBICIN,Intracranial venous sinus thrombosis,1,65,2,20140523
+DOXORUBICIN,Dermatitis,1,,1,20140523
+DOXORUBICIN,Pyrexia,1,62,2,20140523
+DOXORUBICIN,Plasma cell myeloma,1,,0,20140523
+DOXORUBICIN,Plasma cell myeloma,1,,0,20140523
+DOXORUBICIN,Plasma cell myeloma,1,,0,20140523
+DOXORUBICIN,Plasma cell myeloma,1,,0,20140523
+DOXORUBICIN,Toxicity to various agents,1,,0,20140523
+DOXORUBICIN,Plasma cell myeloma,1,,0,20140523
+DOXORUBICIN,Hip deformity,1,23,1,20140523
+DOXORUBICIN,Pulmonary embolism,1,79,2,20140523
+DOXORUBICIN,Unresponsive to stimuli,1,59,1,20140523
+DOXORUBICIN,Pneumocystis jirovecii infection,1,73,1,20140523
+DOXORUBICIN,Lower respiratory tract infection,1,78,2,20140526
+DOXORUBICIN,Haematemesis,1,,2,20140527
+DOXORUBICIN,Deep vein thrombosis,1,67,2,20140527
+DOXORUBICIN,Dyspnoea,1,77,1,20140521
+DOXORUBICIN,Sarcoma metastatic,1,62,1,20140527
+DOXORUBICIN,Spinal cord injury thoracic,1,65,1,20140521
+DOXORUBICIN,Dyspnoea,1,77,1,20140522
+DOXORUBICIN,Toxic encephalopathy,1,57,2,20140527
+DOXORUBICIN,Biliary cast syndrome,1,,0,20140527
+DOXORUBICIN,General physical health deterioration,1,54,2,20140527
+DOXORUBICIN,Chemotherapeutic drug level increased,1,20,1,20140522
+DOXORUBICIN,Chest pain,1,65,2,20140523
+DOXORUBICIN,Migraine,1,39,2,20140527
+DOXORUBICIN,Abdominal pain,1,62,2,20140527
+DOXORUBICIN,Leukopenia,1,62,1,20140527
+DOXORUBICIN,Febrile neutropenia,1,62,2,20140527
+DOXORUBICIN,Product use issue,1,62,1,20140527
+DOXORUBICIN,B-cell lymphoma recurrent,1,,,20140527
+DOXORUBICIN,Death,1,,,20140527
+DOXORUBICIN,Death,1,,,20140527
+DOXORUBICIN,B-cell lymphoma recurrent,1,,,20140527
+DOXORUBICIN,Death,1,,,20140527
+DOXORUBICIN,B-cell lymphoma recurrent,1,,,20140527
+DOXORUBICIN,B-cell lymphoma recurrent,1,,,20140527
+DOXORUBICIN,Neutropenia,1,73,1,20140527
+DOXORUBICIN,Fatigue,1,73,1,20140527
+DOXORUBICIN,Vomiting,1,72,2,20140528
+DOXORUBICIN,Febrile neutropenia,1,58,2,20140528
+DOXORUBICIN,Pneumocystis jirovecii infection,1,73,1,20140528
+DOXORUBICIN,Leukopenia,1,77,1,20140528
+DOXORUBICIN,Drug interaction,1,41,2,20140528
+DOXORUBICIN,Renal failure acute,1,40,1,20140528
+DOXORUBICIN,Pulmonary embolism,1,79,2,20140528
+DOXORUBICIN,Multi-organ failure,1,39,2,20140528
+DOXORUBICIN,Skin fissures,1,11,1,20140529
+DOXORUBICIN,Chemotherapeutic drug level increased,1,20,1,20140529
+DOXORUBICIN,General physical health deterioration,1,82,1,20140529
+DOXORUBICIN,Diaphragm muscle weakness,1,77,1,20140529
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,71,2,20140523
+DOXORUBICIN,Diaphragm muscle weakness,1,77,1,20140523
+DOXORUBICIN,Cytomegalovirus chorioretinitis,1,67,2,20140529
+DOXORUBICIN,Multi-organ failure,1,7,1,20140529
+DOXORUBICIN,Wrong technique in drug usage process,1,12,1,20140529
+DOXORUBICIN,Gastritis,1,,0,20140529
+DOXORUBICIN,Syncope,1,,0,20140529
+DOXORUBICIN,Hyponatraemia,1,65,2,20140529
+DOXORUBICIN,Renal failure acute,1,40,1,20140529
+DOXORUBICIN,Lower respiratory tract infection,1,79,2,20140529
+DOXORUBICIN,Disease progression,1,,0,20140529
+DOXORUBICIN,Disease progression,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,Infection,1,40,1,20140529
+DOXORUBICIN,Endotoxic shock,1,48,1,20140529
+DOXORUBICIN,Disease progression,1,,0,20140529
+DOXORUBICIN,Disease progression,1,,0,20140529
+DOXORUBICIN,Disease progression,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,Disease progression,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,Disease progression,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,T-cell lymphoma recurrent,1,,0,20140529
+DOXORUBICIN,Disease progression,1,,0,20140529
+DOXORUBICIN,Disease progression,1,,0,20140529
+DOXORUBICIN,Superinfection,1,75,2,20140530
+DOXORUBICIN,Dactylitis,1,11,1,20140530
+DOXORUBICIN,Skin infection,1,79,2,20140530
+DOXORUBICIN,Convulsion,1,,0,20140530
+DOXORUBICIN,Dyspnoea,1,79,2,20140530
+DOXORUBICIN,Anaphylactic shock,1,67,2,20140530
+DOXORUBICIN,Second primary malignancy,1,,1,20140530
+DOXORUBICIN,Venoocclusive liver disease,1,15,2,20140530
+DOXORUBICIN,Central nervous system haemorrhage,1,12,1,20140530
+DOXORUBICIN,Acute respiratory distress syndrome,1,69,1,20140613
+DOXORUBICIN,Acute myeloid leukaemia,1,54,2,20140530
+DOXORUBICIN,Skin infection,1,,,20140530
+DOXORUBICIN,Pneumocystis jirovecii infection,1,73,1,20140530
+DOXORUBICIN,Agranulocytosis,1,46,1,20140530
+DOXORUBICIN,Pseudomembranous colitis,1,16,2,20140530
+DOXORUBICIN,Death,1,,0,20140530
+DOXORUBICIN,Death,1,,0,20140530
+DOXORUBICIN,Septic shock,1,,0,20140530
+DOXORUBICIN,Death,1,,0,20140530
+DOXORUBICIN,Death,1,,0,20140530
+DOXORUBICIN,Liver function test abnormal,1,,0,20140530
+DOXORUBICIN,Death,1,,0,20140530
+DOXORUBICIN,Death,1,,0,20140530
+DOXORUBICIN,Death,1,,0,20140530
+DOXORUBICIN,Death,1,,0,20140530
+DOXORUBICIN,Febrile neutropenia,1,44,1,20140531
+DOXORUBICIN,Disease progression,1,70,2,20140531
+DOXORUBICIN,Drug interaction,1,11,1,20140531
+DOXORUBICIN,Febrile neutropenia,1,54,1,20140531
+DOXORUBICIN,Sudden death,1,79,2,20140531
+DOXORUBICIN,Intestinal perforation,1,9,1,20140601
+DOXORUBICIN,Haematotoxicity,1,63,1,20140602
+DOXORUBICIN,Cyanosis,1,86,2,20140602
+DOXORUBICIN,Diarrhoea,1,73,1,20140602
+DOXORUBICIN,Ovarian cancer,1,62,2,20140602
+DOXORUBICIN,Intestinal dilatation,1,62,2,20140528
+DOXORUBICIN,Neutropenia,1,62,1,20140528
+DOXORUBICIN,Acute myeloid leukaemia,1,19,1,20140529
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,74,2,20140602
+DOXORUBICIN,Liver function test abnormal,1,,0,20140602
+DOXORUBICIN,Liver function test abnormal,1,,0,20140602
+DOXORUBICIN,Liver function test abnormal,1,,0,20140602
+DOXORUBICIN,Death,1,,0,20140602
+DOXORUBICIN,Liver function test abnormal,1,,0,20140602
+DOXORUBICIN,Liver function test abnormal,1,,0,20140602
+DOXORUBICIN,Liver function test abnormal,1,,0,20140602
+DOXORUBICIN,Colon cancer,1,64,1,20140603
+DOXORUBICIN,Peritonitis,1,9,1,20140603
+DOXORUBICIN,Febrile neutropenia,1,75,2,20140603
+DOXORUBICIN,Pneumoperitoneum,1,14,1,20140529
+DOXORUBICIN,Testicular disorder,1,17,1,20140529
+DOXORUBICIN,Testicular disorder,1,17,1,20140529
+DOXORUBICIN,Testicular disorder,1,16,1,20140529
+DOXORUBICIN,Renal failure acute,1,40,1,20140530
+DOXORUBICIN,Febrile neutropenia,1,73,1,20140530
+DOXORUBICIN,Autonomic neuropathy,1,48,1,20140530
+DOXORUBICIN,Skin infection,1,79,2,20140530
+DOXORUBICIN,Testicular disorder,1,16,1,20140529
+DOXORUBICIN,Pancreatitis necrotising,1,69,1,20140529
+DOXORUBICIN,Pancytopenia,1,11,1,20140603
+DOXORUBICIN,Neutropenia,1,44,2,20140603
+DOXORUBICIN,Multi-organ failure,1,,0,20140603
+DOXORUBICIN,Scleroderma,1,76,2,20140603
+DOXORUBICIN,Drug interaction,1,11,1,20140602
+DOXORUBICIN,Migraine,1,39,2,20140604
+DOXORUBICIN,Zygomycosis,1,11,2,20140604
+DOXORUBICIN,Intracranial venous sinus thrombosis,1,65,2,20140604
+DOXORUBICIN,Deafness,1,23,1,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Proteinuria,1,,0,20140604
+DOXORUBICIN,Neoplasm progression,1,,0,20140604
+DOXORUBICIN,Proteinuria,1,,0,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Central nervous system haemorrhage,1,12,1,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Venoocclusive liver disease,1,15,2,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Osteonecrosis,1,23,1,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Gingival bleeding,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease progression,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Disease recurrence,1,,0,20140604
+DOXORUBICIN,Migraine,1,39,2,20140605
+DOXORUBICIN,Migraine,1,39,2,20140605
+DOXORUBICIN,Toxic encephalopathy,1,66,2,20140605
+DOXORUBICIN,Deafness,1,23,1,20140605
+DOXORUBICIN,Disease recurrence,1,,0,20140605
+DOXORUBICIN,Disease recurrence,1,,0,20140605
+DOXORUBICIN,Disease recurrence,1,,0,20140605
+DOXORUBICIN,Disease recurrence,1,,0,20140605
+DOXORUBICIN,Disease recurrence,1,,0,20140605
+DOXORUBICIN,Tremor,1,71,2,20140606
+DOXORUBICIN,Acute respiratory distress syndrome,1,75,1,20140606
+DOXORUBICIN,Melaena,1,77,2,20140606
+DOXORUBICIN,Post lumbar puncture syndrome,1,50,1,20140606
+DOXORUBICIN,Pulmonary embolism,1,58,1,20140606
+DOXORUBICIN,Thrombocytopenia,1,,2,20140606
+DOXORUBICIN,Anal abscess,1,25,2,20140604
+DOXORUBICIN,Sinus bradycardia,1,81,2,20140606
+DOXORUBICIN,Infection,1,40,1,20140606
+DOXORUBICIN,Colitis,1,4,1,20140605
+DOXORUBICIN,Second primary malignancy,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Second primary malignancy,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Second primary malignancy,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,0,20140606
+DOXORUBICIN,Lung infiltration,1,60,1,20140609
+DOXORUBICIN,Depression,1,58,1,20140609
+DOXORUBICIN,Pulmonary embolism,1,46,2,20140609
+DOXORUBICIN,Renal failure,1,24,1,20140609
+DOXORUBICIN,Tumour marker increased,1,,,20140609
+DOXORUBICIN,Malaise,1,39,2,20140605
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,,0,20140609
+DOXORUBICIN,Cardiogenic shock,1,57,2,20140609
+DOXORUBICIN,Anaemia,1,,0,20140609
+DOXORUBICIN,Febrile neutropenia,1,41,2,20140610
+DOXORUBICIN,Febrile neutropenia,1,,0,20140610
+DOXORUBICIN,Neutrophil count decreased,2,51,1,20140609
+DOXORUBICIN,Neutropenia,1,44,2,20140606
+DOXORUBICIN,Infusion related reaction,1,69,2,20140610
+DOXORUBICIN,Neuropathy peripheral,1,71,2,20140610
+DOXORUBICIN,Small intestinal obstruction,1,,0,20140610
+DOXORUBICIN,Haematotoxicity,1,,2,20140610
+DOXORUBICIN,Death,1,,0,20140610
+DOXORUBICIN,Toxicity to various agents,1,,0,20140610
+DOXORUBICIN,Disease progression,1,,0,20140610
+DOXORUBICIN,Toxicity to various agents,1,,0,20140610
+DOXORUBICIN,Hip deformity,1,23,1,20140610
+DOXORUBICIN,Tumour lysis syndrome,1,83,1,20140610
+DOXORUBICIN,Toxicity to various agents,1,,0,20140610
+DOXORUBICIN,Toxicity to various agents,1,,0,20140610
+DOXORUBICIN,Toxicity to various agents,1,,0,20140610
+DOXORUBICIN,Toxicity to various agents,1,,0,20140610
+DOXORUBICIN,Disease progression,1,,0,20140610
+DOXORUBICIN,Disease progression,1,,0,20140610
+DOXORUBICIN,Toxicity to various agents,1,,0,20140610
+DOXORUBICIN,Pulmonary fibrosis,1,54,2,20140611
+DOXORUBICIN,Drug interaction,1,11,1,20140611
+DOXORUBICIN,White blood cell count decreased,1,53,1,20140611
+DOXORUBICIN,Gamma-glutamyltransferase increased,1,67,2,20140611
+DOXORUBICIN,Diverticulitis,1,58,1,20140611
+DOXORUBICIN,Palmar-plantar erythrodysaesthesia syndrome,1,71,2,20140611
+DOXORUBICIN,Cognitive disorder,1,42,2,20140611
+DOXORUBICIN,Maternal exposure during pregnancy,1,1,1,20140611
+DOXORUBICIN,Premature baby,1,40,2,20140611
+DOXORUBICIN,Anaemia,1,1,1,20140611
+DOXORUBICIN,Cardiogenic shock,1,57,2,20140611
+DOXORUBICIN,Bladder transitional cell carcinoma,1,72,1,20140611
+DOXORUBICIN,Bronchitis,1,,2,20140612
+DOXORUBICIN,Exposure during pregnancy,1,40,2,20140612
+DOXORUBICIN,Cerebral haemangioma,1,20,1,20140610
+DOXORUBICIN,Ileus,1,7,1,20140612
+DOXORUBICIN,Leukopenia,1,8,1,20140612
+DOXORUBICIN,Neutropenia,1,7,1,20140612
+DOXORUBICIN,Small intestinal obstruction,1,62,2,20140612
+DOXORUBICIN,Inguinal hernia,1,1,1,20140612
+DOXORUBICIN,Hepatitis B,1,73,2,20140612
+DOXORUBICIN,Febrile neutropenia,1,38,2,20140613
+DOXORUBICIN,"Hallucination, auditory",1,44,2,20140613
+DOXORUBICIN,Sepsis,1,17,1,20140611
+DOXORUBICIN,Laryngitis,1,32,2,20140613
+DOXORUBICIN,Haematotoxicity,1,65,2,20140611
+DOXORUBICIN,Osteonecrosis,1,23,1,20140611
+DOXORUBICIN,Pneumonia,1,66,1,20140613
+DOXORUBICIN,Venoocclusive disease,1,46,1,20140613
+DOXORUBICIN,Prostate cancer,1,70,1,20140613
+DOXORUBICIN,Encephalitis cytomegalovirus,1,35,1,20140613
+DOXORUBICIN,Venoocclusive disease,1,46,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,47,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,16,2,20140613
+DOXORUBICIN,Febrile neutropenia,1,18,1,20140613
+DOXORUBICIN,Peripheral T-cell lymphoma unspecified,1,71,1,20140613
+DOXORUBICIN,Toxicity to various agents,1,5,0,20140613
+DOXORUBICIN,Pancytopenia,1,81,1,20140613
+DOXORUBICIN,Haematotoxicity,1,60,2,20140614
+DOXORUBICIN,Febrile neutropenia,1,33,1,20140614
+DOXORUBICIN,Febrile neutropenia,1,24,2,20140615
+DOXORUBICIN,Febrile neutropenia,1,36,1,20140615
+DOXORUBICIN,Febrile neutropenia,1,34,1,20140615
+DOXORUBICIN,Febrile neutropenia,1,35,1,20140615
+DOXORUBICIN,Febrile neutropenia,1,30,1,20140616
+DOXORUBICIN,Febrile neutropenia,1,44,1,20140616
+DOXORUBICIN,Anaemia,1,,1,20140616
+DOXORUBICIN,Osteonecrosis,1,32,1,20140616
+DOXORUBICIN,Venoocclusive disease,1,38,2,20140616
+DOXORUBICIN,Febrile neutropenia,1,16,2,20140616
+DOXORUBICIN,Febrile neutropenia,1,35,1,20140616
+DOXORUBICIN,Atrial fibrillation,1,70,1,20140616
+DOXORUBICIN,Cardiogenic shock,1,57,2,20140616
+DOXORUBICIN,Neuropathy peripheral,1,,,20140616
+DOXORUBICIN,Premature labour,1,32,2,20140616
+DOXORUBICIN,Premature baby,1,,1,20140616
+DOXORUBICIN,General physical health deterioration,1,,0,20140616
+DOXORUBICIN,Febrile neutropenia,1,18,1,20140616
+DOXORUBICIN,Febrile neutropenia,1,15,2,20140616
+DOXORUBICIN,Febrile neutropenia,1,22,1,20140616
+DOXORUBICIN,Febrile neutropenia,1,43,2,20140616
+DOXORUBICIN,Febrile neutropenia,1,15,2,20140616
+DOXORUBICIN,Haematotoxicity,1,36,1,20140616
+DOXORUBICIN,Haematotoxicity,1,60,2,20140616
+DOXORUBICIN,Haematotoxicity,1,44,1,20140616
+DOXORUBICIN,Febrile neutropenia,1,15,1,20140616
+DOXORUBICIN,Febrile neutropenia,1,18,1,20140616
+DOXORUBICIN,Osteonecrosis,1,32,1,20140616
+DOXORUBICIN,Cardiomyopathy,1,56,2,20140616
+DOXORUBICIN,Haematotoxicity,1,30,1,20140616
+DOXORUBICIN,Peripheral T-cell lymphoma unspecified,1,71,1,20140616
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,,1,20140612
+DOXORUBICIN,Febrile neutropenia,1,54,1,20140616
+DOXORUBICIN,Vascular pseudoaneurysm,1,,0,20140616
+DOXORUBICIN,Respiratory tract infection,1,32,1,20140617
+DOXORUBICIN,Febrile neutropenia,1,24,2,20140617
+DOXORUBICIN,Haematotoxicity,1,34,1,20140617
+DOXORUBICIN,Haematotoxicity,1,27,1,20140617
+DOXORUBICIN,Febrile neutropenia,1,31,2,20140617
+DOXORUBICIN,Precursor T-lymphoblastic lymphoma/leukaemia,1,60,2,20140617
+DOXORUBICIN,Febrile neutropenia,1,18,1,20140617
+DOXORUBICIN,Haematotoxicity,1,65,2,20140617
+DOXORUBICIN,Febrile neutropenia,1,15,1,20140617
+DOXORUBICIN,Haematotoxicity,1,46,1,20140617
+DOXORUBICIN,Febrile neutropenia,1,43,2,20140617
+DOXORUBICIN,Febrile neutropenia,1,33,1,20140617
+DOXORUBICIN,Febrile neutropenia,1,31,2,20140617
+DOXORUBICIN,Febrile neutropenia,1,47,1,20140617
+DOXORUBICIN,Febrile neutropenia,1,26,1,20140617
+DOXORUBICIN,Febrile neutropenia,1,27,1,20140617
+DOXORUBICIN,Febrile neutropenia,1,60,2,20140617
+DOXORUBICIN,Febrile neutropenia,1,46,2,20140617
+DOXORUBICIN,Cognitive disorder,1,,2,20140617
+DOXORUBICIN,Febrile neutropenia,1,60,2,20140613
+DOXORUBICIN,Haematotoxicity,1,15,1,20140613
+DOXORUBICIN,Haematotoxicity,1,16,2,20140613
+DOXORUBICIN,Haematotoxicity,1,33,1,20140613
+DOXORUBICIN,Haematotoxicity,1,43,2,20140613
+DOXORUBICIN,Haematotoxicity,1,24,2,20140613
+DOXORUBICIN,Osteonecrosis,1,26,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,18,1,20140613
+DOXORUBICIN,Haematotoxicity,1,46,2,20140613
+DOXORUBICIN,Haematotoxicity,1,44,1,20140613
+DOXORUBICIN,Haematotoxicity,1,38,2,20140613
+DOXORUBICIN,Haematotoxicity,1,60,2,20140613
+DOXORUBICIN,Haematotoxicity,1,47,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,60,2,20140613
+DOXORUBICIN,Haematotoxicity,1,18,1,20140613
+DOXORUBICIN,Constipation,1,,,20140617
+DOXORUBICIN,Febrile neutropenia,1,15,2,20140613
+DOXORUBICIN,Haematotoxicity,1,31,2,20140613
+DOXORUBICIN,Haematotoxicity,1,30,1,20140613
+DOXORUBICIN,Haematotoxicity,1,27,1,20140613
+DOXORUBICIN,Haematotoxicity,1,22,1,20140613
+DOXORUBICIN,Osteonecrosis,1,32,1,20140613
+DOXORUBICIN,Haematotoxicity,1,34,1,20140613
+DOXORUBICIN,Haematotoxicity,1,35,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,31,2,20140613
+DOXORUBICIN,Febrile neutropenia,1,22,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,32,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,15,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,46,2,20140613
+DOXORUBICIN,Monoclonal gammopathy,1,,,20140617
+DOXORUBICIN,Febrile neutropenia,1,46,1,20140617
+DOXORUBICIN,Diarrhoea,1,73,1,20140613
+DOXORUBICIN,Nausea,1,32,2,20140617
+DOXORUBICIN,Cardiogenic shock,1,57,2,20140618
+DOXORUBICIN,Convulsion,1,64,1,20140618
+DOXORUBICIN,Febrile neutropenia,1,18,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,43,2,20140613
+DOXORUBICIN,Febrile neutropenia,1,36,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,35,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,30,1,20140613
+DOXORUBICIN,Febrile neutropenia,1,24,2,20140613
+DOXORUBICIN,Febrile neutropenia,1,27,1,20140613
+DOXORUBICIN,Foetal exposure during pregnancy,1,1,1,20140618
+DOXORUBICIN,Febrile neutropenia,1,33,1,20140618
+DOXORUBICIN,Febrile neutropenia,1,33,1,20140618
+DOXORUBICIN,Hypertension,1,,,20140618
+DOXORUBICIN,Anaemia,1,1,1,20140618
+DOXORUBICIN,Haematotoxicity,1,22,1,20140618
+DOXORUBICIN,Osteonecrosis,1,26,1,20140618
+DOXORUBICIN,Multi-organ failure,1,46,1,20140616
+DOXORUBICIN,Pain,1,,,20140618
+DOXORUBICIN,Neutropenic infection,1,,0,20140618
+DOXORUBICIN,Hepatosplenic candidiasis,1,,,20140618
+DOXORUBICIN,Stress,1,,,20140618
+DOXORUBICIN,Neutropenic sepsis,1,,,20140618
+DOXORUBICIN,Haematotoxicity,1,30,1,20140618
+DOXORUBICIN,Febrile neutropenia,1,26,1,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Haematotoxicity,1,46,2,20140618
+DOXORUBICIN,Lung infection,1,51,2,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Death,1,,0,20140618
+DOXORUBICIN,Compression fracture,1,66,1,20140618
+DOXORUBICIN,Pneumonitis,1,36,2,20140619
+DOXORUBICIN,Cognitive disorder,1,42,2,20140619
+DOXORUBICIN,Haematotoxicity,1,,1,20140619
+DOXORUBICIN,Haematotoxicity,1,16,2,20140619
+DOXORUBICIN,Febrile neutropenia,1,16,2,20140619
+DOXORUBICIN,Encephalopathy,1,57,2,20140619
+DOXORUBICIN,Haematotoxicity,1,38,2,20140617
+DOXORUBICIN,Febrile neutropenia,1,16,2,20140617
+DOXORUBICIN,Febrile neutropenia,1,44,1,20140617
+DOXORUBICIN,Bone giant cell tumour malignant,1,,0,20140619
+DOXORUBICIN,Neutrophil count abnormal,1,,1,20140619
+DOXORUBICIN,Foetal exposure during pregnancy,1,,1,20140619
+DOXORUBICIN,Upper gastrointestinal haemorrhage,1,,,20140619
+DOXORUBICIN,Haematuria,1,,,20140619
+DOXORUBICIN,Anaemia,1,54,2,20140619
+DOXORUBICIN,Febrile neutropenia,1,15,2,20140617
+DOXORUBICIN,Febrile neutropenia,1,33,1,20140617
+DOXORUBICIN,Febrile neutropenia,1,34,1,20140617
+DOXORUBICIN,Neutropenic sepsis,1,75,2,20140619
+DOXORUBICIN,Osteonecrosis,1,26,1,20140619
+DOXORUBICIN,Intra-abdominal haemorrhage,1,72,1,20140619
+DOXORUBICIN,Febrile neutropenia,1,26,1,20140617
+DOXORUBICIN,Febrile neutropenia,1,18,1,20140617
+DOXORUBICIN,Haematotoxicity,1,33,1,20140619
+DOXORUBICIN,Haematotoxicity,1,15,2,20140619
+DOXORUBICIN,Haematotoxicity,1,24,2,20140619
+DOXORUBICIN,Febrile neutropenia,1,15,1,20140619
+DOXORUBICIN,Febrile neutropenia,1,47,1,20140617
+DOXORUBICIN,Haematotoxicity,1,36,1,20140619
+DOXORUBICIN,Febrile neutropenia,1,60,2,20140619
+DOXORUBICIN,Haematotoxicity,1,18,1,20140619
+DOXORUBICIN,Haematotoxicity,1,16,2,20140619
+DOXORUBICIN,Osteonecrosis,1,30,1,20140619
+DOXORUBICIN,Febrile neutropenia,1,60,2,20140617
+DOXORUBICIN,Skin necrosis,1,68,1,20140619
+DOXORUBICIN,Haematotoxicity,1,44,1,20140619
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,38,2,20140619
+DOXORUBICIN,Haematotoxicity,1,35,1,20140619
+DOXORUBICIN,Haematotoxicity,1,27,1,20140619
+DOXORUBICIN,Febrile neutropenia,1,31,2,20140619
+DOXORUBICIN,Febrile neutropenia,1,43,2,20140619
+DOXORUBICIN,Osteonecrosis,1,32,1,20140619
+DOXORUBICIN,Haematotoxicity,1,34,1,20140619
+DOXORUBICIN,Febrile neutropenia,1,18,1,20140619
+DOXORUBICIN,Latent tuberculosis,1,,,20140619
+DOXORUBICIN,Cytogenetic abnormality,1,66,2,20140619
+DOXORUBICIN,Neutrophil count abnormal,1,,1,20140619
+DOXORUBICIN,Febrile neutropenia,1,63,2,20140619
+DOXORUBICIN,Adult T-cell lymphoma/leukaemia,1,49,2,20140620
+DOXORUBICIN,Urticaria,2,60,2,20140620
+DOXORUBICIN,Leukopenia,1,73,2,20140620
+DOXORUBICIN,Pericardial effusion,1,79,2,20140617
+DOXORUBICIN,Hepatotoxicity,1,60,2,20140618
+DOXORUBICIN,Diarrhoea,1,52,2,20140618
+DOXORUBICIN,Dehydration,1,73,1,20140618
+DOXORUBICIN,Acute hepatitis C,1,60,2,20140620
+DOXORUBICIN,Pulmonary hypertension,1,,0,20140620
+DOXORUBICIN,Myeloid leukaemia,1,,0,20140620
+DOXORUBICIN,Infusion related reaction,1,48,2,20140620
+DOXORUBICIN,HIV antibody positive,1,43,1,20140620
+DOXORUBICIN,Myelitis,1,35,2,20140618
+DOXORUBICIN,Aphthous stomatitis,1,74,2,20140620
+DOXORUBICIN,Epistaxis,1,,,20140620
+DOXORUBICIN,Renal failure,1,,,20140620
+DOXORUBICIN,Cough,1,72,2,20140619
+DOXORUBICIN,Haematotoxicity,1,22,1,20140620
+DOXORUBICIN,Lung disorder,1,,1,20140620
+DOXORUBICIN,Acute lymphocytic leukaemia,1,,,20140618
+DOXORUBICIN,Febrile neutropenia,1,,,20140620
+DOXORUBICIN,Haematotoxicity,1,47,1,20140620
+DOXORUBICIN,Haematotoxicity,1,60,2,20140620
+DOXORUBICIN,Haematotoxicity,1,46,2,20140620
+DOXORUBICIN,Cough,1,80,1,20140620
+DOXORUBICIN,Pneumonia,1,69,1,20140623
+DOXORUBICIN,Anaphylactic shock,1,73,1,20140623
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,22,2,20140623
+DOXORUBICIN,Pancytopenia,1,53,2,20140623
+DOXORUBICIN,Peripheral sensory neuropathy,1,,2,20140623
+DOXORUBICIN,Nausea,1,,,20140623
+DOXORUBICIN,Neutropenia,1,,0,20140623
+DOXORUBICIN,Death,1,,0,20140623
+DOXORUBICIN,Adverse drug reaction,1,,0,20140623
+DOXORUBICIN,Viral infection,1,,2,20140623
+DOXORUBICIN,Premature baby,1,,0,20140623
+DOXORUBICIN,Febrile neutropenia,1,,0,20140623
+DOXORUBICIN,Haematotoxicity,1,,,20140623
+DOXORUBICIN,Death,1,,0,20140623
+DOXORUBICIN,Hospitalisation,1,,,20140623
+DOXORUBICIN,Lung disorder,1,,,20140623
+DOXORUBICIN,Squamous cell carcinoma of skin,1,,0,20140623
+DOXORUBICIN,Myelodysplastic syndrome,1,,0,20140623
+DOXORUBICIN,Acute myocardial infarction,1,46,1,20140623
+DOXORUBICIN,Activities of daily living impaired,1,,,20140623
+DOXORUBICIN,Lung infiltration,1,,,20140623
+DOXORUBICIN,Toxicity to various agents,1,,0,20140623
+DOXORUBICIN,Recurrent cancer,1,34,1,20140623
+DOXORUBICIN,General physical health deterioration,1,,,20140623
+DOXORUBICIN,Febrile neutropenia,1,,0,20140624
+DOXORUBICIN,Interstitial lung disease,1,68,1,20140624
+DOXORUBICIN,Hepatosplenic candidiasis,1,,0,20140624
+DOXORUBICIN,Haematuria,1,,0,20140624
+DOXORUBICIN,Embolism,1,,0,20140624
+DOXORUBICIN,Renal failure,1,,0,20140624
+DOXORUBICIN,Maternal exposure during pregnancy,1,,,20140624
+DOXORUBICIN,Febrile neutropenia,1,53,1,20140624
+DOXORUBICIN,Myelodysplastic syndrome,1,,0,20140624
+DOXORUBICIN,Death,1,,,20140624
+DOXORUBICIN,Amenorrhoea,1,,2,20140624
+DOXORUBICIN,Lung infection,1,63,1,20140624
+DOXORUBICIN,Thrombocytopenia,1,49,2,20140624
+DOXORUBICIN,Deep vein thrombosis,1,76,2,20140620
+DOXORUBICIN,Gastric polyps,1,36,1,20140624
+DOXORUBICIN,Eczema,1,75,2,20140625
+DOXORUBICIN,Anaemia,1,81,1,20140625
+DOXORUBICIN,Amenorrhoea,1,55,2,20140625
+DOXORUBICIN,Malaise,1,46,1,20140625
+DOXORUBICIN,Meningitis pneumococcal,1,59,2,20140620
+DOXORUBICIN,Death neonatal,1,,0,20140625
+DOXORUBICIN,Febrile neutropenia,1,,1,20140625
+DOXORUBICIN,Epistaxis,1,,0,20140626
+DOXORUBICIN,Stress,1,,0,20140626
+DOXORUBICIN,Encephalopathy,1,66,1,20140626
+DOXORUBICIN,No therapeutic response,1,57,2,20140626
+DOXORUBICIN,Non-cardiac chest pain,1,52,1,20140623
+DOXORUBICIN,Second primary malignancy,1,,0,20140626
+DOXORUBICIN,Agranulocytosis,1,55,1,20140626
+DOXORUBICIN,Toxicity to various agents,1,56,2,20140626
+DOXORUBICIN,Death,1,65,1,20140626
+DOXORUBICIN,Angioedema,1,49,2,20140627
+DOXORUBICIN,Alanine aminotransferase increased,2,78,2,20140627
+DOXORUBICIN,Transaminases increased,1,,,20140627
+DOXORUBICIN,Death,1,73,2,20140627
+DOXORUBICIN,Dyspnoea,1,51,2,20140627
+DOXORUBICIN,Diabetes mellitus,1,35,1,20140627
+DOXORUBICIN,White blood cell count decreased,1,92,1,20140625
+DOXORUBICIN,Oropharyngeal pain,1,49,1,20140625
+DOXORUBICIN,Hypotension,1,73,1,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,Therapeutic response decreased,1,,0,20140627
+DOXORUBICIN,Aortic stenosis,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,White blood cell count decreased,1,54,2,20140627
+DOXORUBICIN,Therapeutic response decreased,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease recurrence,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,Disease progression,1,,0,20140627
+DOXORUBICIN,Sensation of foreign body,1,53,2,20140630
+DOXORUBICIN,Lung neoplasm malignant,1,75,1,20140630
+DOXORUBICIN,Metastases to liver,1,,0,20140630
+DOXORUBICIN,Cardiac failure,1,72,1,20140630
+DOXORUBICIN,Neutropenia,1,,,20140630
+DOXORUBICIN,Abdominal pain,1,67,1,20140630
+DOXORUBICIN,Death,1,,0,20140630
+DOXORUBICIN,Death,1,,0,20140630
+DOXORUBICIN,Death,1,,0,20140630
+DOXORUBICIN,Death,1,,0,20140630
+DOXORUBICIN,Latent tuberculosis,1,,0,20140630
+DOXORUBICIN,Pharyngitis,1,55,2,20140625
+DOXORUBICIN,Herpes zoster disseminated,1,61,1,20140630
+DOXORUBICIN,Death,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Pneumonia,1,54,2,20140630
+DOXORUBICIN,Sudden death,1,80,1,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,Disease progression,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,B-cell lymphoma recurrent,1,,0,20140630
+DOXORUBICIN,Maternal exposure during pregnancy,1,,,20140701
+DOXORUBICIN,Lung infiltration,1,,,20140701
+DOXORUBICIN,Capillary leak syndrome,1,65,2,20140625
+DOXORUBICIN,Activities of daily living impaired,1,,,20140701
+DOXORUBICIN,T-cell lymphoma,1,71,1,20140625
+DOXORUBICIN,Cough,1,54,2,20140701
+DOXORUBICIN,Hepatorenal syndrome,1,73,1,20140701
+DOXORUBICIN,Vena cava thrombosis,1,82,1,20140701
+DOXORUBICIN,Atrial flutter,1,68,1,20140626
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Bronchopneumonia,1,,2,20140626
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Death,1,,,20140701
+DOXORUBICIN,Tumour lysis syndrome,1,77,1,20140701
+DOXORUBICIN,Acute coronary syndrome,1,46,1,20140702
+DOXORUBICIN,Vision blurred,1,56,2,20140702
+DOXORUBICIN,Pancreatitis acute,1,20,2,20140702
+DOXORUBICIN,General physical health deterioration,1,34,1,20140702
+DOXORUBICIN,Muscular weakness,1,15,1,20140627
+DOXORUBICIN,Breast cancer,1,81,2,20140630
+DOXORUBICIN,Hypovolaemic shock,1,63,1,20140627
+DOXORUBICIN,Alopecia,1,50,2,20140630
+DOXORUBICIN,Leukopenia,1,,2,20140702
+DOXORUBICIN,Febrile neutropenia,1,,,20140702
+DOXORUBICIN,Acute coronary syndrome,1,46,1,20140702
+DOXORUBICIN,Acute polyneuropathy,1,47,2,20140630
+DOXORUBICIN,Portal hypertension,1,,2,20140702
+DOXORUBICIN,Aneurysm ruptured,1,,1,20140702
+DOXORUBICIN,Neoplasm,1,60,2,20140702
+DOXORUBICIN,Coeliac disease,1,56,1,20140702
+DOXORUBICIN,Febrile neutropenia,1,62,2,20140703
+DOXORUBICIN,Heart rate increased,1,65,1,20140703
+DOXORUBICIN,Cyst,1,36,2,20140703
+DOXORUBICIN,Left ventricular dysfunction,1,58,2,20140703
+DOXORUBICIN,Diarrhoea,1,75,2,20140701
+DOXORUBICIN,Toxicity to various agents,1,18,1,20140703
+DOXORUBICIN,Radiculitis,1,18,1,20140703
+DOXORUBICIN,Neurological symptom,1,,,20140703
+DOXORUBICIN,Adverse event,1,,,20140703
+DOXORUBICIN,Adverse event,1,,,20140703
+DOXORUBICIN,Alopecia,1,48,2,20140703
+DOXORUBICIN,Neurological symptom,1,,,20140703
+DOXORUBICIN,Adverse event,1,,,20140703
+DOXORUBICIN,Disease progression,1,,,20140703
+DOXORUBICIN,Prostate cancer,1,,,20140703
+DOXORUBICIN,Disease progression,1,,,20140703
+DOXORUBICIN,White blood cell count decreased,1,21,1,20140704
+DOXORUBICIN,Tachycardia,1,52,2,20140704
+DOXORUBICIN,Leukopenia,1,68,2,20140704
+DOXORUBICIN,Jaw fracture,1,64,2,20140704
+DOXORUBICIN,Pain in extremity,1,59,2,20140704
+DOXORUBICIN,Somnolence,1,16,2,20140707
+DOXORUBICIN,Myalgia,1,49,1,20140702
+DOXORUBICIN,White blood cell count decreased,1,63,1,20140707
+DOXORUBICIN,Off label use,1,47,2,20140707
+DOXORUBICIN,Lichenoid keratosis,1,44,2,20140707
+DOXORUBICIN,Depressed level of consciousness,1,8,2,20140707
+DOXORUBICIN,Febrile neutropenia,1,22,2,20140707
+DOXORUBICIN,Atrial fibrillation,1,77,1,20140708
+DOXORUBICIN,Diarrhoea,1,84,2,20140708
+DOXORUBICIN,Myelopathy,1,,1,20140708
+DOXORUBICIN,Chest discomfort,1,68,2,20140708
+DOXORUBICIN,Dyspnoea,1,52,2,20140708
+DOXORUBICIN,Drug resistance,1,60,2,20140708
+DOXORUBICIN,Ileus paralytic,1,53,2,20140702
+DOXORUBICIN,Eosinophil count increased,1,51,1,20140708
+DOXORUBICIN,Ventricular extrasystoles,1,45,2,20140708
+DOXORUBICIN,Fat embolism,1,58,1,20140708
+DOXORUBICIN,Atrial fibrillation,1,80,1,20140708
+DOXORUBICIN,Acute myeloid leukaemia,2,69,1,20140703
+DOXORUBICIN,Death,1,,,20140708
+DOXORUBICIN,Death,1,,,20140708
+DOXORUBICIN,Death,1,,,20140708
+DOXORUBICIN,Death,1,,,20140708
+DOXORUBICIN,Death,1,,,20140708
+DOXORUBICIN,Death,1,,,20140708
+DOXORUBICIN,Death,1,,,20140708
+DOXORUBICIN,Pneumonia,1,54,2,20140708
+DOXORUBICIN,Pneumonia,1,54,2,20140708
+DOXORUBICIN,Death,1,,,20140708
+DOXORUBICIN,Pneumonitis,1,21,1,20140709
+DOXORUBICIN,Skin ulcer,1,65,2,20140709
+DOXORUBICIN,Toxic neuropathy,1,18,1,20140709
+DOXORUBICIN,Osteoma,1,9,1,20140703
+DOXORUBICIN,Enterocolitis infectious,1,,2,20140703
+DOXORUBICIN,Mediastinal mass,1,29,2,20140703
+DOXORUBICIN,Upper respiratory tract infection,1,,,20140703
+DOXORUBICIN,Off label use,1,51,1,20140709
+DOXORUBICIN,Monoclonal gammopathy,1,,,20140707
+DOXORUBICIN,Presyncope,1,50,1,20140709
+DOXORUBICIN,Left ventricular dysfunction,1,,2,20140709
+DOXORUBICIN,Febrile neutropenia,1,16,1,20140707
+DOXORUBICIN,Hepatotoxicity,1,,,20140709
+DOXORUBICIN,Intracranial venous sinus thrombosis,1,65,2,20140709
+DOXORUBICIN,Drug clearance decreased,1,20,1,20140709
+DOXORUBICIN,Benign renal neoplasm,1,70,1,20140710
+DOXORUBICIN,Bone marrow disorder,1,54,2,20140707
+DOXORUBICIN,Premature baby,1,,2,20140710
+DOXORUBICIN,Cardiotoxicity,1,,,20140710
+DOXORUBICIN,Platelet count decreased,1,51,1,20140710
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,,,20140710
+DOXORUBICIN,Disease progression,1,,2,20140711
+DOXORUBICIN,Hepatosplenic T-cell lymphoma,1,64,2,20140711
+DOXORUBICIN,Thrombocytopenia,1,43,1,20140711
+DOXORUBICIN,Neutropenia,1,51,1,20140711
+DOXORUBICIN,Disease progression,1,,1,20140711
+DOXORUBICIN,Pneumocystis jirovecii pneumonia,1,60,1,20140711
+DOXORUBICIN,Immune reconstitution inflammatory syndrome,1,39,2,20140711
+DOXORUBICIN,Disease progression,1,,1,20140711
+DOXORUBICIN,Disease recurrence,1,,1,20140711
+DOXORUBICIN,Disease recurrence,1,,1,20140711
+DOXORUBICIN,Disease recurrence,1,,1,20140711
+DOXORUBICIN,Anaemia,1,62,2,20140714
+DOXORUBICIN,Immune system disorder,1,37,1,20140714
+DOXORUBICIN,Hepatitis B,1,65,1,20140714
+DOXORUBICIN,Atrioventricular block complete,1,80,1,20140714
+DOXORUBICIN,Exposure during pregnancy,1,29,2,20140714
+DOXORUBICIN,Cerebrovascular accident,1,54,2,20140708
+DOXORUBICIN,Acute myeloid leukaemia,1,60,2,20140710
+DOXORUBICIN,Malaise,1,46,1,20140714
+DOXORUBICIN,Dizziness,1,56,2,20140714
+DOXORUBICIN,Dyspnoea,1,46,2,20140714
+DOXORUBICIN,Leukopenia,1,51,1,20140715
+DOXORUBICIN,Cardiac failure,1,63,1,20140715
+DOXORUBICIN,Respiratory failure,1,59,1,20140715
+DOXORUBICIN,Cardiomyopathy,1,,,20140715
+DOXORUBICIN,Cardiomyopathy,1,,,20140715
+DOXORUBICIN,Platelet count decreased,1,17,2,20140715
+DOXORUBICIN,Haematotoxicity,1,16,2,20140715
+DOXORUBICIN,Pulmonary tuberculosis,1,55,1,20140716
+DOXORUBICIN,Neutrophil count decreased,1,67,2,20140714
+DOXORUBICIN,White blood cell count decreased,1,67,2,20140714
+DOXORUBICIN,Renal failure acute,1,75,1,20140716
+DOXORUBICIN,Wheezing,1,56,2,20140716
+DOXORUBICIN,Neutropenia,1,56,2,20140716
+DOXORUBICIN,Neutropenia,1,51,1,20140716
+DOXORUBICIN,Cardiac disorder,1,46,2,20140716
+DOXORUBICIN,Febrile neutropenia,1,40,2,20140716
+DOXORUBICIN,Left ventricular dysfunction,1,,2,20140716
+DOXORUBICIN,Pancytopenia,1,56,1,20140716
+DOXORUBICIN,Aortic stenosis,1,,,20140716
+DOXORUBICIN,Intestinal perforation,1,54,1,20140717
+DOXORUBICIN,Drug level increased,1,20,1,20140717
+DOXORUBICIN,Leukoencephalopathy,1,5,2,20140716
+DOXORUBICIN,Febrile neutropenia,1,22,1,20140715
+DOXORUBICIN,Dysphonia,1,74,1,20140715
+DOXORUBICIN,Interstitial lung disease,1,46,1,20140715
+DOXORUBICIN,Neutropenia,1,52,2,20140717
+DOXORUBICIN,Histiocytosis haematophagic,1,9,1,20140717
+DOXORUBICIN,Agranulocytosis,1,51,1,20140717
+DOXORUBICIN,Death,1,33,1,20140717
+DOXORUBICIN,Hepatitis B,1,56,1,20140718
+DOXORUBICIN,Hepatitis B,1,77,1,20140718
+DOXORUBICIN,Parotitis,1,4,1,20140718
+DOXORUBICIN,Non-Hodgkin^s lymphoma,1,55,1,20140718
+DOXORUBICIN,Infection,1,72,1,20140718
+DOXORUBICIN,Liver abscess,1,,,20140716
+DOXORUBICIN,Infection,1,,2,20140718
+DOXORUBICIN,Liver abscess,1,,,20140716
+DOXORUBICIN,Hepatotoxicity,1,71,2,20140718
+DOXORUBICIN,Scleroderma,1,67,1,20140718
+DOXORUBICIN,Liver abscess,1,,,20140716
+DOXORUBICIN,Pyrexia,1,46,1,20140718
+DOXORUBICIN,Syncope,1,69,2,20140718
+DOXORUBICIN,Drug clearance decreased,1,20,1,20140718
+DOXORUBICIN,Endocarditis,1,,,20140718
+DOXORUBICIN,Fatigue,1,73,1,20140718
+DOXORUBICIN,Acute lymphocytic leukaemia recurrent,1,16,2,20140718
+DOXORUBICIN,Malaise,1,46,1,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Death,1,,,20140718
+DOXORUBICIN,Osteonecrosis of jaw,1,57,2,20140720
+DOXORUBICIN,Disease progression,1,46,2,20140721
+DOXORUBICIN,Infusion site extravasation,1,88,2,20140716
+DOXORUBICIN,Atrioventricular block complete,1,80,1,20140721
+DOXORUBICIN,Disease progression,1,9,1,20140721
+DOXORUBICIN,Disease progression,1,,,20140721
+DOXORUBICIN,Disease progression,1,,,20140721
+DOXORUBICIN,Sepsis,1,,,20140722
+DOXORUBICIN,Stomatitis,1,11,2,20140722
+DOXORUBICIN,Hyperammonaemia,2,,2,20140722
+DOXORUBICIN,Osteonecrosis of jaw,1,57,2,20140722
+DOXORUBICIN,Mucosal inflammation,1,58,1,20140722
+DOXORUBICIN,Acute hepatitis B,1,,2,20140718
+DOXORUBICIN,Haemodialysis,1,67,1,20140721
+DOXORUBICIN,Agranulocytosis,1,51,1,20140718
+DOXORUBICIN,Hepatitis,1,,,20140718
+DOXORUBICIN,Osteonecrosis,1,23,1,20140722
+DOXORUBICIN,Hepatitis B,1,,2,20140718
+DOXORUBICIN,Pneumonia,1,80,1,20140722
+DOXORUBICIN,Hepatitis B DNA increased,1,,2,20140718
+DOXORUBICIN,Febrile neutropenia,1,40,2,20140722
+DOXORUBICIN,Disease progression,1,,,20140722
+DOXORUBICIN,Disease progression,1,,,20140722
+DOXORUBICIN,Disease progression,1,34,2,20140722
+DOXORUBICIN,Neutropenia,1,,,20140723
+DOXORUBICIN,Neoplasm,1,44,2,20140723
+DOXORUBICIN,Neutropenia,1,45,2,20140723
+DOXORUBICIN,Gastrointestinal haemorrhage,1,54,1,20140723
+DOXORUBICIN,Azotaemia,1,67,1,20140723
+DOXORUBICIN,Therapeutic response delayed,1,,1,20140723
+DOXORUBICIN,Thrombocytopenia,1,45,2,20140723
+DOXORUBICIN,Cardiac failure,1,31,2,20140723
+DOXORUBICIN,Cardiac failure chronic,1,66,2,20140723
+DOXORUBICIN,Drug clearance decreased,1,20,1,20140723
+DOXORUBICIN,Subcutaneous abscess,1,85,1,20140722
+DOXORUBICIN,Scleroderma,1,67,1,20140724
+DOXORUBICIN,Death,1,32,1,20140724
+DOXORUBICIN,Pericardial effusion,1,66,2,20140725
+DOXORUBICIN,Hepatotoxicity,1,71,2,20140725
+DOXORUBICIN,Back pain,1,,1,20140725
+DOXORUBICIN,Exposure during pregnancy,1,24,2,20140723
+DOXORUBICIN,Dyspnoea,1,46,2,20140725
+DOXORUBICIN,Diarrhoea,1,14,1,20140723
+DOXORUBICIN,Convulsion,1,,1,20140725
+DOXORUBICIN,Glaucoma,1,71,1,20140725
+DOXORUBICIN,Pneumonia,1,59,2,20140723
+DOXORUBICIN,Agranulocytosis,1,52,1,20140725
+DOXORUBICIN,Plasma cell myeloma,1,71,1,20140725
+DOXORUBICIN,Plasmacytoma,1,52,1,20140725
+DOXORUBICIN,Drug ineffective,1,58,1,20140725
+DOXORUBICIN,Lung infection,1,58,1,20140728
+DOXORUBICIN,Febrile neutropenia,1,57,2,20140728
+DOXORUBICIN,Pancreatitis acute,1,,,20140728
+DOXORUBICIN,Product use issue,1,,,20140728
+DOXORUBICIN,Abdominal pain upper,1,65,2,20140728
+DOXORUBICIN,Malaise,1,62,2,20140728
+DOXORUBICIN,Cardiac failure acute,1,,,20140728
+DOXORUBICIN,Hepatic steatosis,1,46,2,20140728
+DOXORUBICIN,Hepatic enzyme increased,1,60,1,20140728
+DOXORUBICIN,Renal tubular necrosis,1,45,2,20140729
+DOXORUBICIN,Chest pain,1,17,2,20140729
+DOXORUBICIN,Leukopenia,1,,,20140729
+DOXORUBICIN,Respiratory tract infection,1,,,20140729
+DOXORUBICIN,Radiation pneumonitis,1,17,2,20140729
+DOXORUBICIN,Abdominal pain upper,1,79,1,20140729
+DOXORUBICIN,Atrial fibrillation,1,80,1,20140725
+DOXORUBICIN,White blood cell count increased,2,66,2,20140728
+DOXORUBICIN,Lymphocyte count decreased,2,66,2,20140728
+DOXORUBICIN,Glycosylated haemoglobin increased,1,70,2,20140730
+DOXORUBICIN,Drug hypersensitivity,1,51,2,20140730
+DOXORUBICIN,Immunodeficiency,1,62,1,20140730
+DOXORUBICIN,Sepsis,1,,,20140730
+DOXORUBICIN,Toxicity to various agents,1,,,20140730
+DOXORUBICIN,Diarrhoea,1,59,1,20140731
+DOXORUBICIN,Headache,1,,2,20140731
+DOXORUBICIN,Hepatic failure,1,79,1,20140731
+DOXORUBICIN,Off label use,1,,,20140731
+DOXORUBICIN,Refractory anaemia with an excess of blasts,1,7,1,20140731
+DOXORUBICIN,Pneumocystis jirovecii pneumonia,1,75,1,20140731
+DOXORUBICIN,Pneumocystis jirovecii pneumonia,1,61,2,20140731
+DOXORUBICIN,Pneumocystis jirovecii pneumonia,1,56,2,20140731
+DOXORUBICIN,Pneumocystis jirovecii pneumonia,1,47,1,20140731
+DOXORUBICIN,Pneumocystis jirovecii pneumonia,1,51,2,20140731
+DOXORUBICIN,Pericardial effusion,1,32,2,20140731
+DOXORUBICIN,Cytomegalovirus infection,1,30,2,20140731
+DOXORUBICIN,Alopecia,1,23,2,20140731
+DOXORUBICIN,Haemoglobin decreased,1,52,1,20140731
+DOXORUBICIN,Breast cancer metastatic,1,74,2,20140730
+DOXORUBICIN,Dehydration,1,79,1,20140731
+DOXORUBICIN,Chest pain,1,75,2,20140731
+DOXORUBICIN,Lichenoid keratosis,1,,,20140801
+DOXORUBICIN,Off label use,1,,,20140801
+DOXORUBICIN,Pneumonitis,1,45,1,20140801
+DOXORUBICIN,Pneumonia,1,76,1,20140801
+DOXORUBICIN,Toxicity to various agents,1,,,20140801
+DOXORUBICIN,Ileus paralytic,1,64,1,20140801
+DOXORUBICIN,Sweat gland tumour,1,80,1,20140801
+DOXORUBICIN,Condition aggravated,1,,,20140801
+DOXORUBICIN,Disease progression,1,,,20140801
+DOXORUBICIN,Death,1,,,20140801
+DOXORUBICIN,Death,1,,,20140801
+DOXORUBICIN,Death,1,,,20140801
+DOXORUBICIN,Death,1,,,20140801
+DOXORUBICIN,Death,1,,,20140801
+DOXORUBICIN,Toxic epidermal necrolysis,1,23,2,20140801
+DOXORUBICIN,Myelodysplastic syndrome,1,11,1,20140803
+DOXORUBICIN,Neutropenic colitis,1,,1,20140803
+DOXORUBICIN,Gastrointestinal haemorrhage,1,54,1,20140804
+DOXORUBICIN,Fatigue,1,,,20140804
+DOXORUBICIN,Hyponatraemia,1,,,20140804
+DOXORUBICIN,Mucosal inflammation,1,,,20140804
+DOXORUBICIN,Cytomegalovirus infection,1,,,20140804
+DOXORUBICIN,Off label use,1,,,20140804
+DOXORUBICIN,Tumour lysis syndrome,1,,,20140804
+DOXORUBICIN,Off label use,1,,,20140804
+DOXORUBICIN,Metastatic carcinoma of the bladder,1,,,20140804
+DOXORUBICIN,Embolism,1,,2,20140804
+DOXORUBICIN,Neuropathy peripheral,1,,2,20140804
+DOXORUBICIN,Thrombocytopenia,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Subarachnoid haemorrhage,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Death,1,,,20140804
+DOXORUBICIN,Agranulocytosis,1,69,2,20140804
+DOXORUBICIN,White blood cell count decreased,1,54,2,20140731
+DOXORUBICIN,Hyponatraemia,1,69,2,20140731
+DOXORUBICIN,Diarrhoea,1,8,2,20140804
+DOXORUBICIN,No therapeutic response,1,,,20140804
+DOXORUBICIN,Wound haemorrhage,1,70,2,20140804
+DOXORUBICIN,Acute respiratory failure,1,75,2,20140804
+DOXORUBICIN,Porphyria non-acute,1,8,2,20140731
+DOXORUBICIN,Death,1,38,2,20140804
+DOXORUBICIN,Haematochezia,1,62,2,20140805
+DOXORUBICIN,Vomiting,1,,,20140805
+DOXORUBICIN,Hypotension,1,43,2,20140805
+DOXORUBICIN,Malaise,2,77,2,20140804
+DOXORUBICIN,Tumour lysis syndrome,1,68,2,20140805
+DOXORUBICIN,Second primary malignancy,1,11,1,20140805
+DOXORUBICIN,Pneumonia,1,76,1,20140805
+DOXORUBICIN,Aplasia,1,67,1,20140805
+DOXORUBICIN,Plasma cell myeloma,1,58,1,20140805
+DOXORUBICIN,Renal failure,1,52,2,20140805
+DOXORUBICIN,Hip deformity,1,23,1,20140805
+DOXORUBICIN,Urinary tract infection,1,62,2,20140805
+DOXORUBICIN,Fatigue,1,69,2,20140805
+DOXORUBICIN,Acute respiratory distress syndrome,1,56,1,20140801
+DOXORUBICIN,Lymphoma,1,41,1,20140806
+DOXORUBICIN,Enterocolitis infectious,1,56,2,20140806
+DOXORUBICIN,Pancytopenia,1,36,1,20140806
+DOXORUBICIN,Product label confusion,2,,,20140804
+DOXORUBICIN,Neutropenia,1,50,1,20140806
+DOXORUBICIN,Infection,1,51,1,20140805
+DOXORUBICIN,Death,1,,,20140806
+DOXORUBICIN,Hepatitis B,1,,1,20140806
+DOXORUBICIN,Cytomegalovirus infection,1,,,20140806
+DOXORUBICIN,Hepatitis B,1,56,1,20140806
+DOXORUBICIN,Myelodysplastic syndrome,1,11,1,20140806
+DOXORUBICIN,Deep vein thrombosis,1,69,2,20140806
+DOXORUBICIN,Sweat gland tumour,1,,,20140806
+DOXORUBICIN,Neutropenia,1,71,2,20140806
+DOXORUBICIN,Pulmonary oedema,1,,,20140807
+DOXORUBICIN,Neutropenic sepsis,1,53,2,20140805
+DOXORUBICIN,Neutropenia,1,,,20140807
+DOXORUBICIN,Prostate cancer,1,,,20140807
+DOXORUBICIN,Apparent death,1,,2,20140807
+DOXORUBICIN,Haematotoxicity,1,51,2,20140807
+DOXORUBICIN,Neutropenia,1,,,20140807
+DOXORUBICIN,Sepsis,1,,,20140807
+DOXORUBICIN,Pneumonia bacterial,1,17,2,20140805
+DOXORUBICIN,Febrile neutropenia,1,16,2,20140805
+DOXORUBICIN,Neutrophil count decreased,1,53,1,20140807
+DOXORUBICIN,Malaise,1,,,20140807
+DOXORUBICIN,Myelodysplastic syndrome,1,,,20140807
+DOXORUBICIN,Vomiting,1,,,20140807
+DOXORUBICIN,Nerve injury,1,44,2,20140807
+DOXORUBICIN,Squamous cell carcinoma,1,,,20140807
+DOXORUBICIN,Hyperglycaemia,1,82,2,20140807
+DOXORUBICIN,Wrong drug administered,2,,1,20140807
+DOXORUBICIN,Flank pain,2,,2,20140807
+DOXORUBICIN,Constipation,2,55,2,20140807
+DOXORUBICIN,Platelet count decreased,2,,,20140807
+DOXORUBICIN,Asthenia,1,66,2,20140808
+DOXORUBICIN,Haematotoxicity,1,51,2,20140808
+DOXORUBICIN,Fluid overload,1,72,1,20140806
+DOXORUBICIN,Neutrophil count decreased,1,71,2,20140805
+DOXORUBICIN,Off label use,1,,,20140808
+DOXORUBICIN,Mucosal inflammation,1,,,20140808
+DOXORUBICIN,Breast cancer,1,,,20140808
+DOXORUBICIN,Pulmonary cavitation,1,70,1,20140808
+DOXORUBICIN,Renal failure,1,52,2,20140808
+DOXORUBICIN,Disease progression,1,58,1,20140808
+DOXORUBICIN,Second primary malignancy,1,11,1,20140808
+DOXORUBICIN,Hepatitis B,1,77,,20140808
+DOXORUBICIN,Respiratory tract infection,1,,,20140808
+DOXORUBICIN,Respiratory tract infection,1,,,20140808
+DOXORUBICIN,Hypogammaglobulinaemia,1,,,20140808
+DOXORUBICIN,Vulvovaginal candidiasis,1,,,20140808
+DOXORUBICIN,Splenic vein thrombosis,1,65,2,20140811
+DOXORUBICIN,Extramammary Paget^s disease,1,6,1,20140811
+DOXORUBICIN,Alveolitis,1,56,2,20140811
+DOXORUBICIN,Drug level increased,1,20,1,20140811
+DOXORUBICIN,Hypotension,1,,,20140811
+DOXORUBICIN,Leukaemia recurrent,1,55,1,20140811
+DOXORUBICIN,Pneumonitis,1,58,1,20140811
+DOXORUBICIN,Infection in an immunocompromised host,1,,1,20140806
+DOXORUBICIN,Cardiotoxicity,1,36,,20140806
+DOXORUBICIN,Renal failure acute,1,51,2,20140812
+DOXORUBICIN,Embolism,1,,,20140812
+DOXORUBICIN,Bone marrow failure,1,36,1,20140812
+DOXORUBICIN,Generalised tonic-clonic seizure,1,24,2,20140807
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Hip fracture,1,,,20140812
+DOXORUBICIN,Lung neoplasm malignant,1,,,20140812
+DOXORUBICIN,Tachycardia,1,72,2,20140812
+DOXORUBICIN,Hepatitis B,1,,,20140812
+DOXORUBICIN,Haemorrhagic disorder,1,83,1,20140812
+DOXORUBICIN,Malignant neoplasm progression,1,,1,20140808
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Hepatitis B,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Premature baby,1,,2,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Death,1,,,20140812
+DOXORUBICIN,Respiratory alkalosis,1,,,20140812
+DOXORUBICIN,Palmar-plantar erythrodysaesthesia syndrome,1,,2,20140813
+DOXORUBICIN,Neutropenia,1,36,1,20140813
+DOXORUBICIN,Cellulitis orbital,1,,,20140813
+DOXORUBICIN,B-lymphocyte abnormalities,1,,2,20140813
+DOXORUBICIN,Premature baby,1,,2,20140813
+DOXORUBICIN,Premature baby,1,,2,20140813
+DOXORUBICIN,Pre-eclampsia,1,28,2,20140813
+DOXORUBICIN,Premature baby,1,,1,20140813
+DOXORUBICIN,Influenza like illness,1,,,20140813
+DOXORUBICIN,Dyspnoea exertional,1,27,2,20140813
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,,20140813
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,,20140813
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,,20140813
+DOXORUBICIN,Disease progression,1,,,20140813
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,,20140813
+DOXORUBICIN,Pancytopenia,1,36,1,20140811
+DOXORUBICIN,White blood cell count increased,1,41,1,20140811
+DOXORUBICIN,Neutropenia,1,6,2,20140813
+DOXORUBICIN,Cytogenetic abnormality,2,66,1,20140813
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,,20140813
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,,20140813
+DOXORUBICIN,Disease progression,1,,,20140813
+DOXORUBICIN,Hepatocellular carcinoma,1,,1,20140813
+DOXORUBICIN,Death,1,,1,20140813
+DOXORUBICIN,Disease progression,1,,,20140813
+DOXORUBICIN,Bile duct adenocarcinoma,1,,1,20140813
+DOXORUBICIN,Disease progression,1,,,20140813
+DOXORUBICIN,Papillary thyroid cancer,1,,2,20140813
+DOXORUBICIN,Toxicity to various agents,1,,,20140813
+DOXORUBICIN,Death,1,,1,20140813
+DOXORUBICIN,Toxicity to various agents,1,,,20140813
+DOXORUBICIN,Toxicity to various agents,1,,,20140813
+DOXORUBICIN,Papillary thyroid cancer,1,,1,20140813
+DOXORUBICIN,Pulmonary haemorrhage,1,,,20140813
+DOXORUBICIN,Death,1,,1,20140813
+DOXORUBICIN,Neutropenia,1,,,20140814
+DOXORUBICIN,Pleural effusion,1,64,2,20140814
+DOXORUBICIN,Cytogenetic abnormality,2,24,2,20140814
+DOXORUBICIN,Hepatic cirrhosis,1,,,20140814
+DOXORUBICIN,Ejection fraction abnormal,1,,,20140814
+DOXORUBICIN,Infection,1,,,20140814
+DOXORUBICIN,Respiratory tract infection,1,,2,20140814
+DOXORUBICIN,Hypogammaglobulinaemia,1,66,1,20140814
+DOXORUBICIN,Hypogammaglobulinaemia,1,,2,20140814
+DOXORUBICIN,Hypogammaglobulinaemia,1,50,1,20140814
+DOXORUBICIN,Tumour marker increased,1,46,2,20140814
+DOXORUBICIN,Cytogenetic abnormality,2,43,2,20140814
+DOXORUBICIN,Cytogenetic abnormality,2,54,1,20140814
+DOXORUBICIN,Cytogenetic abnormality,2,59,1,20140814
+DOXORUBICIN,Cytogenetic abnormality,2,59,2,20140814
+DOXORUBICIN,Myocardial ischaemia,1,34,2,20140814
+DOXORUBICIN,Osteosarcoma,1,11,1,20140812
+DOXORUBICIN,Lung infection,1,,1,20140815
+DOXORUBICIN,Cardiac failure,1,60,1,20140815
+DOXORUBICIN,Interstitial lung disease,1,41,2,20140815
+DOXORUBICIN,Hepatitis B,1,47,1,20140818
+DOXORUBICIN,Hepatitis B,1,42,1,20140818
+DOXORUBICIN,Gastrointestinal disorder,1,,,20140818
+DOXORUBICIN,Sepsis,1,,,20140818
+DOXORUBICIN,Back pain,1,,,20140818
+DOXORUBICIN,Decreased appetite,1,54,2,20140818
+DOXORUBICIN,Granulomatous pneumonitis,1,69,2,20140818
+DOXORUBICIN,Death,1,23,2,20140818
+DOXORUBICIN,Malignant neoplasm progression,1,49,2,20140819
+DOXORUBICIN,Respiratory tract infection,1,,2,20140819
+DOXORUBICIN,Diarrhoea,1,63,1,20140815
+DOXORUBICIN,Diarrhoea haemorrhagic,1,8,2,20140819
+DOXORUBICIN,Wrong technique in drug usage process,2,58,2,20140820
+DOXORUBICIN,Pyrexia,1,62,2,20140820
+DOXORUBICIN,Pneumonia aspiration,1,54,1,20140820
+DOXORUBICIN,Febrile neutropenia,1,,,20140820
+DOXORUBICIN,Hypertension,1,55,2,20140820
+DOXORUBICIN,Toxicity to various agents,1,,,20140820
+DOXORUBICIN,Off label use,1,23,2,20140820
+DOXORUBICIN,White blood cell count decreased,1,,,20140820
+DOXORUBICIN,Febrile neutropenia,1,78,1,20140820
+DOXORUBICIN,Hepatitis B,1,,,20140820
+DOXORUBICIN,Hepatitis B,1,,,20140820
+DOXORUBICIN,Hepatitis B,1,,,20140820
+DOXORUBICIN,Hepatitis B,1,,,20140820
+DOXORUBICIN,Hepatitis B,1,,,20140820
+DOXORUBICIN,Extremity necrosis,1,28,2,20140820
+DOXORUBICIN,Troponin increased,1,49,2,20140819
+DOXORUBICIN,Hepatitis B,1,,,20140820
+DOXORUBICIN,Mucosal inflammation,1,45,2,20140820
+DOXORUBICIN,Myelopathy,1,,,20140820
+DOXORUBICIN,Systemic inflammatory response syndrome,1,72,1,20140818
+DOXORUBICIN,Primitive neuroectodermal tumour,1,51,2,20140819
+DOXORUBICIN,Alopecia,1,,2,20140821
+DOXORUBICIN,Diarrhoea haemorrhagic,1,8,2,20140819
+DOXORUBICIN,Bone marrow failure,1,6,2,20140821
+DOXORUBICIN,Epidermolysis,1,23,2,20140821
+DOXORUBICIN,Bronchopulmonary aspergillosis,1,,,20140822
+DOXORUBICIN,Pneumonia,1,70,1,20140822
+DOXORUBICIN,Gastrointestinal disorder,1,,,20140822
+DOXORUBICIN,Sudden death,1,72,2,20140822
+DOXORUBICIN,Sepsis,1,,,20140822
+DOXORUBICIN,Plasma cell myeloma,1,74,2,20140820
+DOXORUBICIN,Wheezing,1,49,2,20140820
+DOXORUBICIN,Hypophosphataemia,1,71,1,20140815
+DOXORUBICIN,Drug level increased,1,20,1,20140818
+DOXORUBICIN,Large intestinal ulcer,1,80,2,20140820
+DOXORUBICIN,Interstitial lung disease,1,71,1,20140822
+DOXORUBICIN,Neoplasm progression,1,24,1,20140822
+DOXORUBICIN,Hepatic enzyme increased,1,60,1,20140822
+DOXORUBICIN,Drug effect incomplete,1,5,2,20140824
+DOXORUBICIN,Toxicity to various agents,1,8,2,20140825
+DOXORUBICIN,Diarrhoea haemorrhagic,1,,2,20140825
+DOXORUBICIN,Bone marrow failure,1,,,20140825
+DOXORUBICIN,Wrong technique in drug usage process,1,,,20140825
+DOXORUBICIN,Laryngospasm,1,36,1,20140825
+DOXORUBICIN,Haematotoxicity,1,35,2,20140825
+DOXORUBICIN,Renal failure acute,1,11,1,20140821
+DOXORUBICIN,Death,1,,,20140825
+DOXORUBICIN,Pancytopenia,1,33,2,20140822
+DOXORUBICIN,Systemic inflammatory response syndrome,2,72,1,20140822
+DOXORUBICIN,Diarrhoea haemorrhagic,1,8,2,20140825
+DOXORUBICIN,Diarrhoea haemorrhagic,1,8,2,20140825
+DOXORUBICIN,Drug withdrawal syndrome,1,,2,20140821
+DOXORUBICIN,Sepsis,1,72,2,20140825
+DOXORUBICIN,Anaemia,1,45,2,20140825
+DOXORUBICIN,Pemphigus,1,43,1,20140825
+DOXORUBICIN,Tumour necrosis,2,16,1,20140825
+DOXORUBICIN,Sepsis,1,,,20140826
+DOXORUBICIN,Off label use,1,,2,20140826
+DOXORUBICIN,Nausea,1,,,20140826
+DOXORUBICIN,Cellulitis,1,80,1,20140826
+DOXORUBICIN,General physical health deterioration,1,72,1,20140826
+DOXORUBICIN,Vomiting,1,25,2,20140822
+DOXORUBICIN,Cerebral infarction,1,65,2,20140826
+DOXORUBICIN,Neoplasm,1,64,2,20140826
+DOXORUBICIN,Neoplasm,1,78,2,20140826
+DOXORUBICIN,Diarrhoea haemorrhagic,1,,,20140826
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,,20140827
+DOXORUBICIN,Diffuse large B-cell lymphoma recurrent,1,,,20140827
+DOXORUBICIN,Non-Hodgkin^s lymphoma unspecified histology indolent,1,,,20140827
+DOXORUBICIN,Methaemoglobinaemia,1,18,1,20140827
+DOXORUBICIN,Osteonecrosis,1,23,1,20140827
+DOXORUBICIN,Pneumonia aspiration,1,54,1,20140827
+DOXORUBICIN,Renal failure,1,64,2,20140828
+DOXORUBICIN,Tumour lysis syndrome,1,60,2,20140828
+DOXORUBICIN,Renal failure acute,1,,2,20140828
+DOXORUBICIN,Acute kidney injury,1,26,2,20140828
+DOXORUBICIN,Lymphocyte count decreased,2,66,2,20140827
+DOXORUBICIN,Parkinson^s disease,1,65,2,20140828
+DOXORUBICIN,Lymphopenia,1,,1,20140828
+DOXORUBICIN,Respiratory failure,1,23,2,20140829
+DOXORUBICIN,Corynebacterium sepsis,1,33,2,20140828
+DOXORUBICIN,Headache,1,,,20140829
+DOXORUBICIN,White blood cell count increased,1,63,1,20140829
+DOXORUBICIN,Diarrhoea haemorrhagic,1,8,2,20140829
+DOXORUBICIN,Chronic lymphocytic leukaemia,1,55,0,20140620
+DOXORUBICIN,Basedow^s disease,1,32,2,20140829
+DOXORUBICIN,Neutropenia,1,6,2,20140831
+DOXORUBICIN,Thrombocytopenia,1,69,1,20140901
+DOXORUBICIN,Diplegia,1,61,2,20140901
+DOXORUBICIN,Hyponatraemia,1,72,1,20140901
+DOXORUBICIN,Neurotoxicity,1,,,20140901
+DOXORUBICIN,Hyponatraemia,1,72,1,20140901
+DOXORUBICIN,Lymphoma,1,63,1,20140901
+DOXORUBICIN,Phlebitis,2,,,20140901
+DOXORUBICIN,Phlebitis,2,,,20140901
+DOXORUBICIN,Phlebitis,2,,,20140901
+DOXORUBICIN,Phlebitis,2,,,20140901
+DOXORUBICIN,Phlebitis,2,,,20140901
+DOXORUBICIN,Infusion site erythema,2,59,2,20140901
+DOXORUBICIN,Infusion site erythema,2,50,2,20140901
+DOXORUBICIN,Injection site hypersensitivity,2,31,2,20140901
+DOXORUBICIN,Hypersensitivity,2,29,2,20140901
+DOXORUBICIN,Injection site reaction,2,67,2,20140901
+DOXORUBICIN,Abdominal pain,1,19,2,20140901
+DOXORUBICIN,Osteonecrosis of jaw,1,53,,20140901
+DOXORUBICIN,Myelodysplastic syndrome,1,79,1,20140902
+DOXORUBICIN,Hepatitis B,1,46,1,20140902
+DOXORUBICIN,T-cell lymphoma,1,,,20140902
+DOXORUBICIN,Lung disorder,1,,,20140902
+DOXORUBICIN,Angioimmunoblastic T-cell lymphoma,1,,,20140902
+DOXORUBICIN,Colitis,1,,,20140902
+DOXORUBICIN,Lung cancer metastatic,1,,,20140902
+DOXORUBICIN,Diffuse large B-cell lymphoma,1,,,20140902
+DOXORUBICIN,Intracardiac thrombus,1,,,20140902
+DOXORUBICIN,Febrile neutropenia,1,,,20140902
+DOXORUBICIN,Myocardial infarction,1,,2,20140902
+DOXORUBICIN,Left ventricular dysfunction,1,,2,20140902
+DOXORUBICIN,Pneumonitis,1,,,20140902
+DOXORUBICIN,Stomatitis,1,,,20140902
+DOXORUBICIN,Pneumonitis,1,,,20140902
+DOXORUBICIN,Oesophagitis,1,,,20140902
+DOXORUBICIN,Angina unstable,1,30,2,20140902
+DOXORUBICIN,Cognitive disorder,1,,2,20140902
+DOXORUBICIN,Hypoxia,1,18,1,20140902
+DOXORUBICIN,Vomiting,1,69,1,20140902
+DOXORUBICIN,Lymphopenia,1,54,1,20140902
+DOXORUBICIN,Palmar-plantar erythrodysaesthesia syndrome,1,54,1,20140903
+DOXORUBICIN,Staphylococcal sepsis,1,60,1,20140903
+DOXORUBICIN,Renal failure acute,1,58,1,20140903
+DOXORUBICIN,Multi-organ failure,1,46,1,20140903
+DOXORUBICIN,Osteonecrosis of jaw,1,59,2,20140903
+DOXORUBICIN,Neutrophil count decreased,1,63,1,20140903
+DOXORUBICIN,Drug ineffective,1,23,1,20140903
+DOXORUBICIN,Pancytopenia,1,73,2,20140904
+DOXORUBICIN,Multi-organ failure,1,46,1,20140904
+DOXORUBICIN,Colitis,1,35,1,20140902
+DOXORUBICIN,Ventricular arrhythmia,1,62,,20140902
+DOXORUBICIN,Atrial fibrillation,1,57,1,20140902
+DOXORUBICIN,Febrile neutropenia,1,,,20140904
+DOXORUBICIN,Faecal incontinence,1,61,2,20140904
+DOXORUBICIN,Drug intolerance,1,46,2,20140904
+DOXORUBICIN,Deafness,1,23,1,20140904
+DOXORUBICIN,Pleural effusion,1,15,2,20140903
+DOXORUBICIN,Diarrhoea haemorrhagic,1,8,2,20140905
+DOXORUBICIN,Breast cancer,1,56,2,20140905
+DOXORUBICIN,Hepatitis B,1,56,1,20140905
+DOXORUBICIN,Hyponatraemia,1,72,1,20140905
+DOXORUBICIN,Pneumonia,1,,,20140905
+DOXORUBICIN,Pneumonia,1,,,20140905
+DOXORUBICIN,White blood cell count increased,1,63,1,20140905
+DOXORUBICIN,Fungal infection,1,,,20140905
+DOXORUBICIN,HIV infection,1,,,20140905
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,53,1,20140905
+DOXORUBICIN,Aphasia,1,53,1,20140908
+DOXORUBICIN,Progressive multifocal leukoencephalopathy,1,66,1,20140908
+DOXORUBICIN,Vomiting,1,69,1,20140908
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,64,2,20140908
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,54,2,20140908
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,67,2,20140908
+DOXORUBICIN,Drug eruption,1,40,2,20140908
+DOXORUBICIN,Rash maculo-papular,1,57,2,20140908
+DOXORUBICIN,Conjunctivitis,1,21,2,20140908
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,68,2,20140908
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,51,2,20140908
+DOXORUBICIN,Toxicity to various agents,1,,,20140908
+DOXORUBICIN,Product use in unapproved indication,1,,,20140908
+DOXORUBICIN,Acute myocardial infarction,1,42,2,20140905
+DOXORUBICIN,Enterovirus test positive,1,15,2,20140905
+DOXORUBICIN,Heart rate increased,1,36,1,20140904
+DOXORUBICIN,Strongyloidiasis,1,,1,20140908
+DOXORUBICIN,Interstitial lung disease,1,38,2,20140908
+DOXORUBICIN,Pneumonia,1,43,1,20140909
+DOXORUBICIN,Clostridium test positive,1,33,2,20140908
+DOXORUBICIN,Myelodysplastic syndrome,1,70,1,20140909
+DOXORUBICIN,Cardiomyopathy,1,,,20140909
+DOXORUBICIN,Myalgia,1,,,20140909
+DOXORUBICIN,Cardiotoxicity,1,66,2,20140909
+DOXORUBICIN,Encephalopathy,1,49,2,20140908
+DOXORUBICIN,Strongyloidiasis,1,,1,20140909
+DOXORUBICIN,Haematotoxicity,1,,,20140909
+DOXORUBICIN,Vomiting,1,69,1,20140909
+DOXORUBICIN,Pancytopenia,1,63,1,20140909
+DOXORUBICIN,Neutropenia,1,6,2,20140909
+DOXORUBICIN,Disease progression,1,,,20140909
+DOXORUBICIN,Febrile neutropenia,1,,,20140909
+DOXORUBICIN,Myocardial ischaemia,1,,,20140909
+DOXORUBICIN,Myocardial ischaemia,1,,,20140909
+DOXORUBICIN,Acute myeloid leukaemia,1,,,20140909
+DOXORUBICIN,Renal failure,1,,,20140909
+DOXORUBICIN,Ejection fraction decreased,1,62,1,20140910
+DOXORUBICIN,Diarrhoea haemorrhagic,1,8,2,20140910
+DOXORUBICIN,Gastric ulcer,1,,2,20140910
+DOXORUBICIN,Myelodysplastic syndrome,1,11,1,20140908
+DOXORUBICIN,Chest discomfort,1,59,2,20140908
+DOXORUBICIN,Disease progression,1,,,20140910
+DOXORUBICIN,Disease progression,1,,,20140910
+DOXORUBICIN,Disease progression,1,,,20140910
+DOXORUBICIN,Death,1,,1,20140910
+DOXORUBICIN,Disease progression,1,41,2,20140910
+DOXORUBICIN,Febrile neutropenia,1,81,2,20140911
+DOXORUBICIN,Platelet count decreased,1,67,1,20140911
+DOXORUBICIN,Cardiac disorder,1,56,2,20140911
+DOXORUBICIN,Febrile neutropenia,1,17,2,20140911
+DOXORUBICIN,Pneumonitis,1,76,2,20140911
+DOXORUBICIN,Toxic epidermal necrolysis,1,10,1,20140911
+DOXORUBICIN,Febrile neutropenia,1,14,1,20140911
+DOXORUBICIN,Bronchitis,1,,1,20140911
+DOXORUBICIN,Leukopenia,1,78,1,20140910
+DOXORUBICIN,Acute myeloid leukaemia,2,12,2,20140910
+DOXORUBICIN,Sinus node dysfunction,1,37,2,20140911
+DOXORUBICIN,Acute myeloid leukaemia,1,56,2,20140911
+DOXORUBICIN,Acute respiratory failure,1,78,2,20140912
+DOXORUBICIN,Palmar-plantar erythrodysaesthesia syndrome,1,55,2,20140912
+DOXORUBICIN,Abdominal pain,1,72,2,20140912
+DOXORUBICIN,Hemiparesis,1,,,20140912
+DOXORUBICIN,Large intestine perforation,1,56,1,20140912
+DOXORUBICIN,Off label use,1,60,2,20140912
+DOXORUBICIN,Chronic myeloid leukaemia,1,64,2,20140912
+DOXORUBICIN,Tubulointerstitial nephritis,1,20,2,20140912
+DOXORUBICIN,Eosinophilia,1,56,1,20140915
+DOXORUBICIN,Blood bilirubin increased,1,,,20140915
+DOXORUBICIN,Pneumonitis,1,,,20140915
+DOXORUBICIN,General physical health deterioration,1,70,2,20140915
+DOXORUBICIN,Neutropenia,1,,,20140915
+DOXORUBICIN,Neuropathy peripheral,1,54,2,20140915
+DOXORUBICIN,Metastases to skin,1,69,1,20140916
+DOXORUBICIN,Exposure during pregnancy,1,29,2,20140916
+DOXORUBICIN,Gastrointestinal perforation,1,,,20140916
+DOXORUBICIN,Bone marrow failure,1,,,20140916
+DOXORUBICIN,Renal failure acute,1,,,20140916
+DOXORUBICIN,Tuberculosis,1,59,1,20140916
+DOXORUBICIN,Urinary tract infection,1,,2,20140912
+DOXORUBICIN,Hyperventilation,1,54,1,20140916
+DOXORUBICIN,Sepsis,1,,,20140917
+DOXORUBICIN,Dyspnoea,1,46,1,20140917
+DOXORUBICIN,Glomerulonephropathy,1,55,1,20140917
+DOXORUBICIN,Benign mesenteric neoplasm,1,62,1,20140917
+DOXORUBICIN,Neutropenia,1,,,20140917
+DOXORUBICIN,Tachycardia,1,51,2,20140917
+DOXORUBICIN,Neutropenia,1,,,20140917
+DOXORUBICIN,Urinary tract infection,1,39,2,20140918
+DOXORUBICIN,Neutropenia,1,67,1,20140919
+DOXORUBICIN,Dehydration,1,15,1,20140919
+DOXORUBICIN,Cardiac arrest,1,34,2,20140919
+DOXORUBICIN,Pancreatitis,1,78,2,20140922
+DOXORUBICIN,Death,1,,,20140922
+DOXORUBICIN,Azoospermia,1,,1,20140922
+DOXORUBICIN,Interstitial lung disease,1,,,20140922
+DOXORUBICIN,Multi-organ failure,1,74,2,20140922
+DOXORUBICIN,Pneumonia cytomegaloviral,1,,,20140922
+DOXORUBICIN,Fatigue,1,,,20140922
+DOXORUBICIN,Cardiomyopathy,1,4,1,20140922
+DOXORUBICIN,Disease progression,1,,,20140922
+DOXORUBICIN,Disease progression,1,,,20140922
+DOXORUBICIN,Disease progression,1,,,20140922
+DOXORUBICIN,Sepsis,1,,,20140922
+DOXORUBICIN,Heart rate increased,1,50,1,20140919
+DOXORUBICIN,Corynebacterium sepsis,1,33,2,20140922
+DOXORUBICIN,Polyneuropathy,1,5,2,20140923
+DOXORUBICIN,Disturbance in attention,1,68,1,20140923
+DOXORUBICIN,Pyrexia,1,20,1,20140923
+DOXORUBICIN,Febrile neutropenia,1,67,1,20140924
+DOXORUBICIN,Hepatitis B,1,38,1,20140924
+DOXORUBICIN,Periodontitis,1,63,2,20140924
+DOXORUBICIN,Febrile neutropenia,1,26,1,20140924
+DOXORUBICIN,Febrile neutropenia,1,32,1,20140924
+DOXORUBICIN,Neutrophil count decreased,2,66,2,20140923
+DOXORUBICIN,Neuropathy peripheral,1,54,2,20140924
+DOXORUBICIN,Lung infection,1,15,1,20140925
+DOXORUBICIN,Pleural effusion,1,64,2,20140925
+DOXORUBICIN,Ileus paralytic,1,43,2,20140925
+DOXORUBICIN,Atrial fibrillation,1,,,20140923
+DOXORUBICIN,Gastrointestinal disorder,1,51,2,20140925
+DOXORUBICIN,Eczema,1,26,1,20140923
+DOXORUBICIN,Aspartate aminotransferase increased,1,,2,20140926
+DOXORUBICIN,Aspartate aminotransferase increased,1,3,1,20140926
+DOXORUBICIN,Haemorrhage,1,5,,20140925
+DOXORUBICIN,Paraesthesia,1,64,2,20140929
+DOXORUBICIN,Oesophagitis,1,64,1,20140929
+DOXORUBICIN,Empyema,1,15,2,20140926
+DOXORUBICIN,Thrombocytopenia,1,54,2,20140929
+DOXORUBICIN,Hepatorenal syndrome,1,53,1,20140930
+DOXORUBICIN,Cardiac failure,1,69,2,20140930
+DOXORUBICIN,Head injury,1,83,1,20140929
+DOXORUBICIN,Therapeutic product ineffective for unapproved indication,1,,2,20140930
+DOXORUBICIN,Febrile neutropenia,1,30,1,20140930
+DOXORUBICIN,Encephalopathy,1,60,2,20140930
+DOXORUBICIN,Hypercalcaemia,1,43,2,20140930
+DOXORUBICIN,Platelet count decreased,1,67,2,20141001
+DOXORUBICIN,Pituitary tumour,1,,,20140929
+DOXORUBICIN,Interstitial lung disease,1,51,1,20141001
+DOXORUBICIN,Neutropenic sepsis,1,,2,20141001
+DOXORUBICIN,Diarrhoea,1,58,1,20141001
+DOXORUBICIN,Hyperventilation,1,54,1,20141001
+DOXORUBICIN,Febrile neutropenia,1,,2,20141001
+DOXORUBICIN,Bronchopneumonia,1,77,2,20141002
+DOXORUBICIN,Pneumonia,1,65,,20140930
+DOXORUBICIN,Platelet count decreased,1,13,2,20140930
+DOXORUBICIN,Pulse absent,1,76,1,20140930
+DOXORUBICIN,Neutropenic sepsis,1,,,20141002
+DOXORUBICIN,Lung infection,1,55,1,20141002
+DOXORUBICIN,Malaise,1,13,2,20141003
+DOXORUBICIN,Multi-organ failure,1,51,1,20141001
+DOXORUBICIN,Venoocclusive liver disease,1,11,1,20141003
+DOXORUBICIN,Feeling cold,2,,2,20141003
+DOXORUBICIN,Pneumonia,1,63,2,20141003
+DOXORUBICIN,Neutropenia,1,15,2,20141001
+DOXORUBICIN,Venoocclusive liver disease,1,11,1,20141003
+DOXORUBICIN,Febrile neutropenia,1,42,1,20141003
+DOXORUBICIN,Gait disturbance,1,60,1,20141003
+DOXORUBICIN,Abdominal mass,1,53,2,20141003
+DOXORUBICIN,Hypokalaemia,1,87,2,20141005
+DOXORUBICIN,Congenital renal disorder,1,,,20141006
+DOXORUBICIN,Abortion spontaneous,1,34,2,20141006
+DOXORUBICIN,Maternal exposure timing unspecified,1,,,20141006
+DOXORUBICIN,Infection,1,,,20141006
+DOXORUBICIN,Gestational diabetes,1,,2,20141006
+DOXORUBICIN,Cerebral haemorrhage,1,77,2,20141006
+DOXORUBICIN,Vomiting,1,33,2,20141002
+DOXORUBICIN,Headache,1,68,1,20141002
+DOXORUBICIN,Syncope,1,,,20141002
+DOXORUBICIN,Acute lung injury,1,70,1,20141002
+DOXORUBICIN,Cardiac tamponade,1,,2,20141002
+DOXORUBICIN,Electrocardiogram QT prolonged,1,,2,20141002
+DOXORUBICIN,Respiratory distress,1,11,1,20141006
+DOXORUBICIN,Septic shock,1,66,1,20141006
+DOXORUBICIN,Febrile neutropenia,2,19,1,20141003
+DOXORUBICIN,Respiratory disorder,2,81,1,20141003
+DOXORUBICIN,Hepatitis B,1,61,2,20141007
+DOXORUBICIN,Febrile neutropenia,1,,2,20141007
+DOXORUBICIN,Swelling,1,59,1,20141006
+DOXORUBICIN,Adult T-cell lymphoma/leukaemia,1,69,2,20141007
+DOXORUBICIN,Hepatitis B,1,71,1,20141003
+DOXORUBICIN,Disease progression,1,50,1,20141007
+DOXORUBICIN,Plasma cell myeloma,1,77,1,20141003
+DOXORUBICIN,Intrahepatic portal hepatic venous fistula,1,80,1,20141007
+DOXORUBICIN,Coma,1,54,1,20141007
+DOXORUBICIN,Haematotoxicity,1,73,2,20141008
+DOXORUBICIN,Rectal adenocarcinoma,1,64,1,20141009
+DOXORUBICIN,Renal failure,1,60,2,20141009
+DOXORUBICIN,Blindness,1,53,2,20141009
+DOXORUBICIN,Staphylococcal sepsis,1,55,2,20141009
+DOXORUBICIN,Peripheral sensory neuropathy,1,83,1,20141009
+DOXORUBICIN,Blood bilirubin increased,1,43,1,20141009
+DOXORUBICIN,Deep vein thrombosis,1,47,1,20141009
+DOXORUBICIN,Ischaemic stroke,1,76,2,20141010
+DOXORUBICIN,Febrile neutropenia,1,,,20141010
+DOXORUBICIN,Febrile neutropenia,1,26,2,20141008
+DOXORUBICIN,Pancytopenia,1,24,2,20141008
+DOXORUBICIN,Acute kidney injury,1,28,2,20141008
+DOXORUBICIN,Pneumonia,1,71,1,20141010
+DOXORUBICIN,Somnolence,1,14,1,20141010
+DOXORUBICIN,Neutropenia,1,,2,20141013
+DOXORUBICIN,Peripheral sensory neuropathy,1,,,20141013
+DOXORUBICIN,Cytomegalovirus infection,1,,,20141013
+DOXORUBICIN,Peripheral sensory neuropathy,1,,,20141013
+DOXORUBICIN,Neurotoxicity,1,,,20141013
+DOXORUBICIN,Rash,1,,,20141013
+DOXORUBICIN,Neutropenia,1,58,2,20141013
+DOXORUBICIN,Leukopenia,1,58,2,20141013
+DOXORUBICIN,Epistaxis,1,,2,20141013
+DOXORUBICIN,Lymphoedema,1,41,2,20141013
+DOXORUBICIN,Hepatic failure,1,72,2,20141014
+DOXORUBICIN,Neutropenia,1,60,2,20141014
+DOXORUBICIN,Oligohydramnios,1,27,2,20141009
+DOXORUBICIN,Amylase increased,1,64,1,20141014
+DOXORUBICIN,Maternal drugs affecting foetus,1,,,20141009
+DOXORUBICIN,Graft versus host disease,1,32,1,20141014
+DOXORUBICIN,Electrocardiogram QT prolonged,1,,,20141014
+DOXORUBICIN,Tongue neoplasm malignant stage unspecified,1,60,2,20141014
+DOXORUBICIN,Epistaxis,1,58,2,20141014
+DOXORUBICIN,Expired product administered,1,72,1,20141015
+DOXORUBICIN,Pulmonary toxicity,1,,,20141015
+DOXORUBICIN,Neutropenic sepsis,1,63,2,20141015
+DOXORUBICIN,Acne,1,50,1,20141015
+DOXORUBICIN,White blood cell count abnormal,1,57,2,20141015
+DOXORUBICIN,Respiratory failure,1,42,1,20141015
+DOXORUBICIN,Jaundice,1,69,2,20141016
+DOXORUBICIN,Thrombocytopenia,1,45,1,20141016
+DOXORUBICIN,Pneumocystis jirovecii pneumonia,1,66,1,20141014
+DOXORUBICIN,Colitis,1,,,20141014
+DOXORUBICIN,Venoocclusive liver disease,1,11,1,20141016
+DOXORUBICIN,Mastitis,1,,,20141016
+DOXORUBICIN,Cellulitis,1,24,2,20141010
+DOXORUBICIN,Acute kidney injury,1,28,2,20141010
+DOXORUBICIN,Febrile neutropenia,1,76,1,20141016
+DOXORUBICIN,Bone marrow failure,1,43,1,20141010
+DOXORUBICIN,Hepatitis B,1,72,2,20141017
+DOXORUBICIN,Abdominal pain,1,74,1,20141017
+DOXORUBICIN,Small cell lung cancer,1,68,1,20141017
+DOXORUBICIN,Abdominal pain upper,1,69,2,20141017
+DOXORUBICIN,Drug interaction,1,,,20141017
+DOXORUBICIN,Post transplant lymphoproliferative disorder,1,13,1,20141017
+DOXORUBICIN,Viral myocarditis,1,8,2,20141017
+DOXORUBICIN,Escherichia sepsis,1,63,1,20141017
+DOXORUBICIN,Hepatic function abnormal,1,39,1,20141017
+DOXORUBICIN,Jaundice,1,76,2,20141020
+DOXORUBICIN,Axonal neuropathy,1,72,2,20141020
+DOXORUBICIN,Acute kidney injury,1,75,2,20141016
+DOXORUBICIN,Osteonecrosis,1,,,20141020
+DOXORUBICIN,Sarcoma metastatic,1,62,1,20141020
+DOXORUBICIN,Pancreatic carcinoma,1,,,20141021
+DOXORUBICIN,Pneumonia adenoviral,1,65,1,20141021
+DOXORUBICIN,Hepatitis B,1,53,2,20141021
+DOXORUBICIN,Intercepted drug dispensing error,2,,,20141014
+DOXORUBICIN,Bone marrow toxicity,1,3,2,20141021
+DOXORUBICIN,Diabetes mellitus,1,,,20141021
+DOXORUBICIN,Diabetes mellitus,1,,,20141021
+DOXORUBICIN,Device related infection,1,47,2,20141017
+DOXORUBICIN,Oedema peripheral,1,73,2,20141020
+DOXORUBICIN,Encephalopathy,1,65,1,20141021
+DOXORUBICIN,Infection,1,,,20141021
+DOXORUBICIN,Product use issue,1,,,20141022
+DOXORUBICIN,Encephalopathy,1,10,1,20141022
+DOXORUBICIN,Glossopharyngeal nerve paralysis,1,75,1,20141022
+DOXORUBICIN,Dyspnoea,1,64,2,20141023
+DOXORUBICIN,Fungal infection,1,66,1,20141021
+DOXORUBICIN,Neutropenia,1,60,2,20141021
+DOXORUBICIN,Bone pain,1,56,2,20141022
+DOXORUBICIN,Dyspnoea,1,56,2,20141022
+DOXORUBICIN,Neutropenia,1,73,2,20141023
+DOXORUBICIN,Diarrhoea,1,317,2,20141023
+DOXORUBICIN,Memory impairment,1,61,2,20141023
+DOXORUBICIN,Cardiomyopathy,1,,,20141023
+DOXORUBICIN,Febrile neutropenia,1,,,20141023
+DOXORUBICIN,Anaemia,1,11,1,20141023
+DOXORUBICIN,Thrombocytopenia,1,,,20141023
+DOXORUBICIN,Spinal cord compression,1,53,1,20141023
+DOXORUBICIN,Hypotension,1,6,2,20141023
+DOXORUBICIN,Mucosal inflammation,1,,2,20141023
+DOXORUBICIN,Vomiting,1,,2,20141023
+DOXORUBICIN,Renal failure,1,6,2,20141023
+DOXORUBICIN,Skin disorder,1,23,2,20141024
+DOXORUBICIN,Pancreatitis,1,,1,20141022
+DOXORUBICIN,Disease complication,1,64,2,20141022
+DOXORUBICIN,Cardiac failure,1,59,2,20141024
+DOXORUBICIN,Pneumonia klebsiella,1,66,2,20141024
+DOXORUBICIN,Febrile neutropenia,1,70,2,20141024
+DOXORUBICIN,Lower respiratory tract infection,1,47,1,20141024
+DOXORUBICIN,Blood cholesterol increased,2,71,2,20141010
+DOXORUBICIN,Diarrhoea,1,60,2,20141010
+DOXORUBICIN,Pyrexia,1,,,20141027
+DOXORUBICIN,Renal failure,1,6,2,20141027
+DOXORUBICIN,Febrile neutropenia,1,38,2,20141027
+DOXORUBICIN,Thrombocytopenia,1,48,2,20141028
+DOXORUBICIN,Renal failure,1,6,2,20141028
+DOXORUBICIN,Hepatic failure,1,,,20141028
+DOXORUBICIN,Hepatic failure,1,39,1,20141028
+DOXORUBICIN,Off label use,2,54,1,20141016
+DOXORUBICIN,Intracranial hypotension,1,72,1,20141028
+DOXORUBICIN,Pneumothorax,1,70,1,20141028
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,,,20141028
+DOXORUBICIN,Febrile neutropenia,1,74,1,20141029
+DOXORUBICIN,Pneumatosis intestinalis,1,50,1,20141029
+DOXORUBICIN,Hepatotoxicity,1,60,2,20141027
+DOXORUBICIN,Breast mass,1,41,2,20141029
+DOXORUBICIN,Deafness,1,23,1,20141029
+DOXORUBICIN,Back pain,1,55,2,20141029
+DOXORUBICIN,Haemoglobin decreased,1,75,1,20141028
+DOXORUBICIN,Pyrexia,1,46,2,20141029
+DOXORUBICIN,Infection,1,64,2,20141029
+DOXORUBICIN,Aspiration,1,79,2,20141029
+DOXORUBICIN,Submandibular mass,1,27,1,20141029
+DOXORUBICIN,Pleural effusion,1,45,2,20141030
+DOXORUBICIN,Haemoglobin decreased,1,42,1,20141030
+DOXORUBICIN,Gastritis,1,48,2,20141031
+DOXORUBICIN,Febrile neutropenia,1,4,2,20141031
+DOXORUBICIN,Neutropenic sepsis,1,,1,20141029
+DOXORUBICIN,General physical health deterioration,1,8,2,20141029
+DOXORUBICIN,Breast cancer,1,41,2,20141031
+DOXORUBICIN,Vertigo,1,,,20141103
+DOXORUBICIN,Lymphopenia,1,66,2,20141103
+DOXORUBICIN,Eyelid ptosis,1,11,1,20141030
+DOXORUBICIN,Cardiac failure,1,46,1,20141103
+DOXORUBICIN,Acute kidney injury,1,58,1,20141031
+DOXORUBICIN,Renal failure,1,6,2,20141103
+DOXORUBICIN,Acute kidney injury,1,71,1,20141103
+DOXORUBICIN,Squamous cell carcinoma,1,37,1,20141103
+DOXORUBICIN,Pneumatosis intestinalis,1,14,1,20141104
+DOXORUBICIN,Acute kidney injury,1,,,20141031
+DOXORUBICIN,Cardiac arrest,1,34,2,20141104
+DOXORUBICIN,Clostridium difficile infection,1,71,2,20141031
+DOXORUBICIN,Hypertension,1,,,20141104
+DOXORUBICIN,Renal failure,1,6,2,20141031
+DOXORUBICIN,Pulmonary embolism,1,24,1,20141103
+DOXORUBICIN,Cardiomyopathy,1,15,2,20141104
+DOXORUBICIN,Febrile neutropenia,1,46,1,20141104
+DOXORUBICIN,Skin necrosis,2,38,2,20141103
+DOXORUBICIN,Biliary sepsis,1,,,20141104
+DOXORUBICIN,Emphysema,1,65,1,20141104
+DOXORUBICIN,Injection site erythema,1,68,2,20141104
+DOXORUBICIN,Ocular icterus,1,65,2,20141105
+DOXORUBICIN,General physical health deterioration,1,51,2,20141105
+DOXORUBICIN,Malignant neoplasm progression,1,,2,20141103
+DOXORUBICIN,Malignant neoplasm progression,1,,2,20141103
+DOXORUBICIN,Syncope,1,,,20141103
+DOXORUBICIN,Conjunctivitis,1,,1,20141103
+DOXORUBICIN,Haemodialysis,1,6,2,20141103
+DOXORUBICIN,Hypertension,1,6,2,20141105
+DOXORUBICIN,Myelodysplastic syndrome,1,66,2,20141105
+DOXORUBICIN,Pulmonary embolism,1,38,2,20141104
+DOXORUBICIN,Panniculitis,1,75,2,20141106
+DOXORUBICIN,Bone marrow failure,1,,2,20141106
+DOXORUBICIN,Cough,1,41,1,20141106
+DOXORUBICIN,Diarrhoea,1,,,20141106
+DOXORUBICIN,Atrial fibrillation,1,72,2,20141106
+DOXORUBICIN,Vagus nerve disorder,1,,2,20141107
+DOXORUBICIN,Pruritus,1,,2,20141107
+DOXORUBICIN,Multi-organ failure,1,39,1,20141105
+DOXORUBICIN,Renal cell carcinoma,1,18,1,20141106
+DOXORUBICIN,Renal cell carcinoma,1,18,1,20141106
+DOXORUBICIN,Axonal neuropathy,1,,,20141107
+DOXORUBICIN,Product use issue,1,12,2,20141107
+DOXORUBICIN,Pneumatosis intestinalis,1,14,1,20141107
+DOXORUBICIN,Pneumonia,1,76,2,20141109
+DOXORUBICIN,Cough,1,41,1,20141109
+DOXORUBICIN,Pulmonary hypertension,1,5,2,20141109
+DOXORUBICIN,Genital tract inflammation,1,41,2,20141106
+DOXORUBICIN,Anaemia,1,55,2,20141110
+DOXORUBICIN,Thrombotic microangiopathy,1,55,1,20141110
+DOXORUBICIN,Hepatic failure,1,39,1,20141110
+DOXORUBICIN,Candida sepsis,1,21,1,20141110
+DOXORUBICIN,Hepatitis cholestatic,1,72,1,20141110
+DOXORUBICIN,Pyrexia,1,41,1,20141110
+DOXORUBICIN,Acute kidney injury,1,48,1,20141111
+DOXORUBICIN,Disease progression,1,,,20141111
+DOXORUBICIN,Disease progression,1,,,20141111
+DOXORUBICIN,Disease progression,1,,,20141111
+DOXORUBICIN,Proteus test positive,1,63,1,20141107
+DOXORUBICIN,Disease progression,1,,,20141111
+DOXORUBICIN,Pancreatic carcinoma,1,,,20141111
+DOXORUBICIN,Primary effusion lymphoma,1,,,20141111
+DOXORUBICIN,Kaposi^s sarcoma,1,,,20141111
+DOXORUBICIN,Disease progression,1,,,20141111
+DOXORUBICIN,Pneumonia pneumococcal,1,,,20141111
+DOXORUBICIN,Disease progression,1,,,20141111
+DOXORUBICIN,Disease progression,1,,,20141111
+DOXORUBICIN,Disease recurrence,1,,,20141111
+DOXORUBICIN,Febrile neutropenia,1,,,20141111
+DOXORUBICIN,Dizziness,1,78,1,20141111
+DOXORUBICIN,Acute kidney injury,1,63,2,20141112
+DOXORUBICIN,Activities of daily living impaired,1,,,20141112
+DOXORUBICIN,Respiratory distress,1,5,2,20141112
+DOXORUBICIN,Jaundice,1,72,1,20141113
+DOXORUBICIN,Syncope,1,51,1,20141110
+DOXORUBICIN,Gallbladder perforation,1,55,2,20141113
+DOXORUBICIN,Neutropenia,1,80,2,20141113
+DOXORUBICIN,Death,1,55,2,20141113
+DOXORUBICIN,Vertigo,1,41,2,20141112
+DOXORUBICIN,Febrile neutropenia,1,,,20141114
+DOXORUBICIN,Blood creatinine decreased,1,63,2,20141112
+DOXORUBICIN,Metastases to bone,1,55,1,20141112
+DOXORUBICIN,Death,1,47,2,20141114
+DOXORUBICIN,Somnolence,1,14,1,20141114
+DOXORUBICIN,Pneumonitis,1,71,1,20141114
+DOXORUBICIN,Pulmonary hypertension,1,5,2,20141114
+DOXORUBICIN,Abdominal wall disorder,1,62,2,20141113
+DOXORUBICIN,Hypertension,1,66,1,20141113
+DOXORUBICIN,Pulmonary embolism,1,64,2,20141113
+DOXORUBICIN,Multi-organ failure,1,34,2,20141114
+DOXORUBICIN,Neutropenia,1,43,1,20141114
+DOXORUBICIN,Multi-organ failure,1,,,20141114
+DOXORUBICIN,Fatigue,1,38,1,20141117
+DOXORUBICIN,Escherichia test positive,1,69,2,20141114
+DOXORUBICIN,Cardiomyopathy,1,,,20141117
+DOXORUBICIN,Product use issue,1,,,20141117
+DOXORUBICIN,Pulmonary hypertension,1,,,20141117
+DOXORUBICIN,Liver disorder,1,,2,20141117
+DOXORUBICIN,Anaemia,1,,,20141117
+DOXORUBICIN,Diastolic dysfunction,1,,,20141117
+DOXORUBICIN,Product use issue,1,,,20141117
+DOXORUBICIN,Hypodontia,1,,,20141117
+DOXORUBICIN,Pulmonary arterial hypertension,1,5,2,20141117
+DOXORUBICIN,Infection,1,,,20141117
+DOXORUBICIN,Cerebrovascular accident,1,,,20141117
+DOXORUBICIN,Cough,1,41,1,20141117
+DOXORUBICIN,Acute myeloid leukaemia,1,70,2,20141118
+DOXORUBICIN,Upper respiratory tract infection,1,54,2,20141118
+DOXORUBICIN,Pyrexia,1,,1,20141114
+DOXORUBICIN,Dyspnoea,1,49,,20141118
+DOXORUBICIN,Ejection fraction decreased,1,,,20141118
+DOXORUBICIN,Diarrhoea,1,54,1,20141117
+DOXORUBICIN,Pulmonary hypertension,1,,,20141118
+DOXORUBICIN,Sepsis,1,47,2,20141118
+DOXORUBICIN,Eosinophilic pneumonia acute,1,48,1,20141118
+DOXORUBICIN,Pulmonary hypertension,1,,,20141118
+DOXORUBICIN,Abdominal pain,1,58,2,20141118
+DOXORUBICIN,Delirium,1,84,2,20141118
+DOXORUBICIN,Vomiting,1,14,2,20141118
+DOXORUBICIN,Hypotension,1,,1,20141117
+DOXORUBICIN,Neuropathy peripheral,1,64,1,20141119
+DOXORUBICIN,Drug interaction,1,60,2,20141119
+DOXORUBICIN,Muscle spasms,1,58,1,20141118
+DOXORUBICIN,Breast cancer,1,,2,20141119
+DOXORUBICIN,Breast cancer female,1,,2,20141119
+DOXORUBICIN,Recurrent cancer,1,49,2,20141119
+DOXORUBICIN,Pancreatitis acute,1,58,2,20141119
+DOXORUBICIN,Meningoencephalitis viral,1,,,20141119
+DOXORUBICIN,Embolism,1,,,20141119
+DOXORUBICIN,Platelet count decreased,1,75,1,20141120
+DOXORUBICIN,Neutropenia,1,,,20141120
+DOXORUBICIN,Hypersensitivity,1,,2,20141120
+DOXORUBICIN,Ejection fraction decreased,1,52,2,20141119
+DOXORUBICIN,Neutropenia,1,41,1,20141118
+DOXORUBICIN,Hepatic failure,1,55,2,20141120
+DOXORUBICIN,Diarrhoea,1,,2,20141120
+DOXORUBICIN,Neutropenic sepsis,1,,2,20141120
+DOXORUBICIN,Embolism,1,,1,20141121
+DOXORUBICIN,Depression,1,,2,20141121
+DOXORUBICIN,General physical health deterioration,1,72,2,20141121
+DOXORUBICIN,Pulmonary embolism,1,,,20141121
+DOXORUBICIN,Capillary leak syndrome,1,51,2,20141121
+DOXORUBICIN,Pancreatitis acute,1,,,20141121
+DOXORUBICIN,Pneumonitis,1,79,1,20141121
+DOXORUBICIN,Device related infection,1,57,2,20141121
+DOXORUBICIN,Pulmonary hypertension,1,,,20141121
+DOXORUBICIN,Pulmonary oedema,1,,,20141121
+DOXORUBICIN,Cardiomyopathy,1,,,20141121
+DOXORUBICIN,Pancreatitis acute,1,58,2,20141123
+DOXORUBICIN,Febrile convulsion,1,61,2,20141124
+DOXORUBICIN,Meningitis cryptococcal,1,58,2,20141124
+DOXORUBICIN,Acquired gene mutation,1,50,1,20141124
+DOXORUBICIN,Electrocardiogram ST segment elevation,1,25,1,20141120
+DOXORUBICIN,Phlebitis,2,,,20141124
+DOXORUBICIN,Infusion site reaction,2,67,2,20141124
+DOXORUBICIN,Condition aggravated,2,31,2,20141124
+DOXORUBICIN,Infusion site erythema,2,50,2,20141124
+DOXORUBICIN,Skin reaction,2,29,2,20141124
+DOXORUBICIN,Infusion site erythema,2,59,2,20141124
+DOXORUBICIN,Pneumoperitoneum,1,14,1,20141120
+DOXORUBICIN,Foetal exposure during pregnancy,1,,2,20141124
+DOXORUBICIN,Pneumoperitoneum,1,14,1,20141124
+DOXORUBICIN,Paraesthesia oral,1,53,2,20141124
+DOXORUBICIN,Malignant neoplasm progression,1,,2,20141125
+DOXORUBICIN,Malignant neoplasm progression,1,71,2,20141121
+DOXORUBICIN,Femur fracture,1,44,1,20141121
+DOXORUBICIN,Fatigue,1,76,2,20141124
+DOXORUBICIN,Acute kidney injury,1,,,20141125
+DOXORUBICIN,Pancreatitis relapsing,1,,,20141126
+DOXORUBICIN,Fatigue,1,65,2,20141126
+DOXORUBICIN,Hepatitis B,1,72,1,20141126
+DOXORUBICIN,Death,1,,,20141126
+DOXORUBICIN,Cerebrovascular accident,1,,,20141126
+DOXORUBICIN,Suicidal ideation,1,56,2,20141126
+DOXORUBICIN,Disease progression,1,,,20141126
+DOXORUBICIN,Disease progression,1,,,20141126
+DOXORUBICIN,Disease progression,1,,,20141126
+DOXORUBICIN,Disease progression,1,,,20141126
+DOXORUBICIN,Fall,1,60,1,20141126
+DOXORUBICIN,Constipation,1,,1,20141126
+DOXORUBICIN,Acute kidney injury,1,63,2,20141127
+DOXORUBICIN,Mucosal inflammation,1,60,1,20141127
+DOXORUBICIN,Localised infection,1,44,2,20141127
+DOXORUBICIN,Malignant neoplasm progression,1,49,2,20141127
+DOXORUBICIN,Pneumonitis,1,45,2,20141128
+DOXORUBICIN,Neutropenia,1,80,2,20141128
+DOXORUBICIN,Electrolyte imbalance,1,27,1,20141128
+DOXORUBICIN,Infection,1,,,20141128
+DOXORUBICIN,White blood cell count decreased,1,54,2,20141128
+DOXORUBICIN,Plasma cell leukaemia,1,55,1,20141128
+DOXORUBICIN,Febrile neutropenia,1,70,2,20141130
+DOXORUBICIN,Blood creatinine increased,1,,1,20141201
+DOXORUBICIN,Dyspnoea,1,70,2,20141201
+DOXORUBICIN,Asthenia,1,65,2,20141201
+DOXORUBICIN,Anaemia,1,57,2,20141201
+DOXORUBICIN,Non-cardiac chest pain,1,59,2,20141201
+DOXORUBICIN,Epstein-Barr virus infection,1,62,2,20141201
+DOXORUBICIN,Amnesia,1,14,1,20141201
+DOXORUBICIN,Adenovirus infection,1,,2,20141201
+DOXORUBICIN,Lymphopenia,1,,,20141201
+DOXORUBICIN,Pulseless electrical activity,1,56,1,20141201
+DOXORUBICIN,Hepatitis B,1,,1,20141201
+DOXORUBICIN,Peripheral swelling,1,61,2,20141201
+DOXORUBICIN,Pneumonitis,1,79,,20141125
+DOXORUBICIN,Hepatitis B,1,,1,20141202
+DOXORUBICIN,Respiratory distress,1,05,2,20141126
+DOXORUBICIN,Lung adenocarcinoma stage I,1,64,1,20141202
+DOXORUBICIN,Hyponatraemia,1,,,20141202
+DOXORUBICIN,Liver function test abnormal,1,,1,20141202
+DOXORUBICIN,Uterine enlargement,1,47,2,20141203
+DOXORUBICIN,Premature baby,1,,1,20141203
+DOXORUBICIN,Premature baby,1,,1,20141203
+DOXORUBICIN,Bone pain,1,59,1,20141203
+DOXORUBICIN,Constipation,1,37,1,20141126
+DOXORUBICIN,Pneumonitis,1,79,,20141128
+DOXORUBICIN,Pneumonia,1,,1,20141203
+DOXORUBICIN,Respiratory distress,1,,1,20141203
+DOXORUBICIN,Second primary malignancy,1,71,2,20141203
+DOXORUBICIN,Upper respiratory tract infection,1,,,20141203
+DOXORUBICIN,Gastric perforation,1,70,1,20141203
+DOXORUBICIN,Pneumonitis,1,45,2,20141203
+DOXORUBICIN,Malaise,1,,,20141202
+DOXORUBICIN,Sepsis,1,71,2,20141204
+DOXORUBICIN,Bacterial infection,1,,,20141204
+DOXORUBICIN,Drug hypersensitivity,1,14,1,20141204
+DOXORUBICIN,Hepatitis B,1,,,20141204
+DOXORUBICIN,Hepatitis B,1,,,20141204
+DOXORUBICIN,Hodgkin^s disease,1,,,20141204
+DOXORUBICIN,Colitis,1,,,20141205
+DOXORUBICIN,Product quality issue,2,79,1,20141205
+DOXORUBICIN,Hepatic fibrosis,1,72,1,20141203
+DOXORUBICIN,Neuropathy peripheral,1,76,2,20141203
+DOXORUBICIN,Foetal exposure during pregnancy,1,,,20141205
+DOXORUBICIN,Premature baby,1,,,20141205
+DOXORUBICIN,Atrial fibrillation,1,59,1,20141205
+DOXORUBICIN,Colitis,1,72,1,20141203
+DOXORUBICIN,Hepatitis B,1,77,1,20141203
+DOXORUBICIN,Pancreatitis acute,1,58,2,20141203
+DOXORUBICIN,Myelodysplastic syndrome,1,75,2,20141205
+DOXORUBICIN,Pancytopenia,1,40,1,20141205
+DOXORUBICIN,Malignant neoplasm progression,1,68,2,20141205
+DOXORUBICIN,Hearing impaired,1,,2,20141204
+DOXORUBICIN,Neuropathy peripheral,1,76,2,20141204
+DOXORUBICIN,Renal disorder,1,,,20141208
+DOXORUBICIN,Nausea,1,45,2,20141208
+DOXORUBICIN,Sepsis,1,61,2,20141208
+DOXORUBICIN,Bladder cancer,1,66,1,20141208
+DOXORUBICIN,Myalgia,1,61,2,20141208
+DOXORUBICIN,Asthenia,1,78,1,20141204
+DOXORUBICIN,Cushing^s syndrome,1,,,20141208
+DOXORUBICIN,Muscle tightness,1,,,20141208
+DOXORUBICIN,Febrile neutropenia,1,,,20141208
+DOXORUBICIN,Postoperative wound complication,1,,,20141208
+DOXORUBICIN,Product use issue,1,,,20141208
+DOXORUBICIN,Phyllodes tumour,1,15,2,20141208
+DOXORUBICIN,Fistula,1,,,20141208
+DOXORUBICIN,Activities of daily living impaired,1,,,20141208
+DOXORUBICIN,Colitis,1,47,2,20141209
+DOXORUBICIN,Hypogammaglobulinaemia,1,66,2,20141209
+DOXORUBICIN,Haemoptysis,1,66,2,20141205
+DOXORUBICIN,Depressed mood,1,19,1,20141205
+DOXORUBICIN,Erythema,1,62,1,20141205
+DOXORUBICIN,Flushing,2,,,20141208
+DOXORUBICIN,Malignant neoplasm progression,1,27,2,20141209
+DOXORUBICIN,Breast cancer,1,23,2,20141209
+DOXORUBICIN,Breast cancer,1,24,2,20141209
+DOXORUBICIN,Product use issue,1,26,2,20141209
+DOXORUBICIN,Breast cancer,1,30,2,20141209
+DOXORUBICIN,Breast cancer,1,32,2,20141209
+DOXORUBICIN,Breast cancer,1,31,2,20141209
+DOXORUBICIN,Product use issue,1,33,2,20141209
+DOXORUBICIN,Breast cancer,1,34,2,20141209
+DOXORUBICIN,Product use issue,1,35,2,20141209
+DOXORUBICIN,Breast cancer,1,34,2,20141209
+DOXORUBICIN,Product use issue,1,36,2,20141209
+DOXORUBICIN,Product use issue,1,36,2,20141209
+DOXORUBICIN,Pneumonia,1,,,20141209
+DOXORUBICIN,Disease recurrence,1,48,2,20141210
+DOXORUBICIN,Pulmonary embolism,1,68,1,20141210
+DOXORUBICIN,White blood cell count decreased,1,67,1,20141210
+DOXORUBICIN,Diarrhoea,1,80,1,20141210
+DOXORUBICIN,Guillain-Barre syndrome,1,78,1,20141210
+DOXORUBICIN,Breast cancer,1,37,2,20141210
+DOXORUBICIN,Product use issue,1,38,2,20141210
+DOXORUBICIN,Breast cancer,1,41,2,20141210
+DOXORUBICIN,Product use issue,1,44,2,20141210
+DOXORUBICIN,Thrombocytopenia,1,,,20141210
+DOXORUBICIN,Muscle spasticity,1,50,1,20141210
+DOXORUBICIN,Metabolic acidosis,1,56,1,20141209
+DOXORUBICIN,Colitis,1,47,2,20141209
+DOXORUBICIN,Breast cancer metastatic,1,68,2,20141211
+DOXORUBICIN,Neonatal respiratory distress syndrome,1,,1,20141211
+DOXORUBICIN,Premature baby,1,,1,20141211
+DOXORUBICIN,Pulmonary fibrosis,1,71,2,20141203
+DOXORUBICIN,Ejection fraction decreased,1,48,2,20141203
+DOXORUBICIN,Acute myeloid leukaemia,1,,2,20141211
+DOXORUBICIN,Death,1,,2,20141211
+DOXORUBICIN,Myocardial infarction,1,,2,20141211
+DOXORUBICIN,Acute myeloid leukaemia,1,,2,20141211
+DOXORUBICIN,Acute myeloid leukaemia,1,,2,20141211
+DOXORUBICIN,Acute myeloid leukaemia,1,,2,20141211
+DOXORUBICIN,Acute myeloid leukaemia,1,,2,20141211
+DOXORUBICIN,Acute myeloid leukaemia,1,,2,20141211
+DOXORUBICIN,Acute myeloid leukaemia,1,,2,20141211
+DOXORUBICIN,Cardiac failure congestive,1,51,2,20141203
+DOXORUBICIN,Abscess,1,51,2,20141212
+DOXORUBICIN,Premature baby,1,,2,20141212
+DOXORUBICIN,Hodgkin^s disease,1,62,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Death,1,,2,20141212
+DOXORUBICIN,Mucosal inflammation,1,111,2,20141212
+DOXORUBICIN,Stomatitis,1,56,1,20141215
+DOXORUBICIN,Cardiac failure congestive,1,,,20141215
+DOXORUBICIN,Foetal exposure during pregnancy,1,,2,20141215
+DOXORUBICIN,Musculoskeletal chest pain,1,63,2,20141215
+DOXORUBICIN,Febrile neutropenia,1,58,2,20141212
+DOXORUBICIN,Death,1,,,20141215
+DOXORUBICIN,Ileal fistula,1,66,2,20141215
+DOXORUBICIN,Tuberculosis,1,25,1,20141215
+DOXORUBICIN,Bone marrow toxicity,1,34,1,20141215
+DOXORUBICIN,Pyrexia,1,37,2,20141215
+DOXORUBICIN,Tubulointerstitial nephritis,1,39,2,20141215
+DOXORUBICIN,Tubulointerstitial nephritis,1,73,2,20141215
+DOXORUBICIN,Urethral discharge,1,67,1,20141216
+DOXORUBICIN,Cerebral haemorrhage,1,64,1,20141216
+DOXORUBICIN,Neutropenic sepsis,1,66,2,20141216
+DOXORUBICIN,Premature delivery,1,24,2,20141216
+DOXORUBICIN,Toxicity to various agents,1,,,20141216
+DOXORUBICIN,Dermatitis,1,52,2,20141216
+DOXORUBICIN,Hypertension,1,,,20141216
+DOXORUBICIN,Febrile neutropenia,1,40,1,20141212
+DOXORUBICIN,Hodgkin^s disease,1,62,2,20141212
+DOXORUBICIN,Febrile neutropenia,1,40,1,20141216
+DOXORUBICIN,Congenital pneumonia,1,,1,20141212
+DOXORUBICIN,Premature baby,1,,1,20141212
+DOXORUBICIN,Cellulitis,1,,2,20141216
+DOXORUBICIN,Drug ineffective,1,,,20141216
+DOXORUBICIN,Abdominal pain,1,9,1,20141216
+DOXORUBICIN,Neutropenia,1,,2,20141216
+DOXORUBICIN,Diplopia,1,47,2,20141216
+DOXORUBICIN,Cardiac failure,1,,,20141216
+DOXORUBICIN,Neutropenia,1,3,1,20141216
+DOXORUBICIN,Neutropenia,1,4,1,20141216
+DOXORUBICIN,Mucosal inflammation,1,4,1,20141216
+DOXORUBICIN,Neutropenia,1,5,1,20141216
+DOXORUBICIN,Mucosal inflammation,1,3,1,20141216
+DOXORUBICIN,Mucosal inflammation,1,7,2,20141216
+DOXORUBICIN,White blood cell count decreased,1,63,2,20141216
+DOXORUBICIN,Cytopenia,1,,2,20141216
+DOXORUBICIN,Breast cancer,1,,,20141216
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141216
+DOXORUBICIN,Hyperhidrosis,1,56,1,20141217
+DOXORUBICIN,Sepsis,1,60,2,20141217
+DOXORUBICIN,Disease progression,1,,1,20141217
+DOXORUBICIN,Fatigue,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Secondary immunodeficiency,1,,,20141217
+DOXORUBICIN,Throat tightness,2,,2,20141217
+DOXORUBICIN,Death,1,66,2,20141217
+DOXORUBICIN,Gastric cancer,1,,1,20141217
+DOXORUBICIN,Colitis,1,,,20141217
+DOXORUBICIN,Tubulointerstitial nephritis,1,,,20141217
+DOXORUBICIN,Tubulointerstitial nephritis,1,,,20141217
+DOXORUBICIN,Pyrexia,1,,,20141217
+DOXORUBICIN,Disease progression,1,,1,20141217
+DOXORUBICIN,Disease progression,1,,1,20141217
+DOXORUBICIN,Disease progression,1,,1,20141217
+DOXORUBICIN,Disease progression,1,,1,20141217
+DOXORUBICIN,Disease progression,1,,1,20141217
+DOXORUBICIN,Disease progression,1,,1,20141217
+DOXORUBICIN,Disease progression,1,,1,20141217
+DOXORUBICIN,Febrile neutropenia,1,,2,20141217
+DOXORUBICIN,Septic shock,1,67,1,20141218
+DOXORUBICIN,Leukopenia,1,8,1,20141218
+DOXORUBICIN,Premature labour,1,24,2,20141219
+DOXORUBICIN,Foetal distress syndrome,1,,2,20141219
+DOXORUBICIN,Drug resistance,1,72,1,20141219
+DOXORUBICIN,Diverticulitis,1,63,2,20141219
+DOXORUBICIN,Hepatic failure,1,37,1,20141219
+DOXORUBICIN,Mucosal inflammation,1,,,20141219
+DOXORUBICIN,Toxicity to various agents,1,,,20141219
+DOXORUBICIN,Hepatocellular carcinoma,1,,1,20141219
+DOXORUBICIN,Acute myeloid leukaemia,1,,1,20141219
+DOXORUBICIN,Metastatic malignant melanoma,1,,1,20141219
+DOXORUBICIN,Tuberculosis,1,25,1,20141219
+DOXORUBICIN,Febrile neutropenia,1,65,2,20141220
+DOXORUBICIN,Renal impairment,1,,,20141222
+DOXORUBICIN,Vertigo,1,,,20141222
+DOXORUBICIN,Tuberculosis,1,25,1,20141222
+DOXORUBICIN,Arthritis,1,37,2,20141222
+DOXORUBICIN,Bone marrow toxicity,1,34,1,20141222
+DOXORUBICIN,Chloroma,1,13,1,20141222
+DOXORUBICIN,Febrile neutropenia,1,76,2,20141219
+DOXORUBICIN,Chloroma,1,,,20141222
+DOXORUBICIN,Disease recurrence,1,22,1,20141222
+DOXORUBICIN,Renal impairment,1,53,1,20141222
+DOXORUBICIN,Death,1,,,20141222
+DOXORUBICIN,C-reactive protein increased,1,,,20141219
+DOXORUBICIN,Abdominal mass,1,,,20141223
+DOXORUBICIN,Sepsis,1,,,20141223
+DOXORUBICIN,Ulcerative keratitis,1,,,20141223
+DOXORUBICIN,Death,1,,,20141223
+DOXORUBICIN,Death,1,,,20141223
+DOXORUBICIN,Death,1,,,20141223
+DOXORUBICIN,Deep vein thrombosis,1,,,20141223
+DOXORUBICIN,Mucosal inflammation,1,3,1,20141223
+DOXORUBICIN,Abdominal pain,1,40,1,20141223
+DOXORUBICIN,Exposure during pregnancy,1,,2,20141223
+DOXORUBICIN,Renal impairment,1,72,1,20141223
+DOXORUBICIN,Pancytopenia,1,,,20141222
+DOXORUBICIN,Mucosal inflammation,1,9,1,20141222
+DOXORUBICIN,Aspartate aminotransferase increased,1,,,20141222
+DOXORUBICIN,Decreased appetite,1,21,1,20141224
+DOXORUBICIN,Chloroma,1,13,1,20141224
+DOXORUBICIN,Neurotoxicity,1,,,20141224
+DOXORUBICIN,Death,1,,,20141224
+DOXORUBICIN,Pyrexia,1,,,20141226
+DOXORUBICIN,Adverse event,1,,,20141226
+DOXORUBICIN,Hepatitis B,1,73,2,20141226
+DOXORUBICIN,Fatigue,1,,2,20141226
+DOXORUBICIN,Rectal haemorrhage,1,,1,20141226
+DOXORUBICIN,Neutropenia,1,41,2,20141227
+DOXORUBICIN,Septic shock,1,52,1,20141227
+DOXORUBICIN,Haematotoxicity,1,23,1,20141227
+DOXORUBICIN,Inappropriate antidiuretic hormone secretion,1,,2,20141229
+DOXORUBICIN,Hyponatraemia,1,,2,20141229
+DOXORUBICIN,Neutropenia,1,,2,20141229
+DOXORUBICIN,Neutropenia,1,,,20141229
+DOXORUBICIN,Large intestinal obstruction,1,,,20141229
+DOXORUBICIN,Ileus,1,,2,20141229
+DOXORUBICIN,Large intestine perforation,1,,,20141229
+DOXORUBICIN,Platelet count decreased,1,,,20141229
+DOXORUBICIN,Fatigue,1,,,20141229
+DOXORUBICIN,Hyponatraemia,1,,2,20141229
+DOXORUBICIN,Infection,1,,2,20141229
+DOXORUBICIN,Pancreatic carcinoma,1,,,20141229
+DOXORUBICIN,Chest pain,1,84,1,20141229
+DOXORUBICIN,Dyspnoea,1,58,1,20141229
+DOXORUBICIN,Death,1,,,20141229
+DOXORUBICIN,Haematotoxicity,1,,,20141229
+DOXORUBICIN,Chloroma,1,13,1,20141229
+DOXORUBICIN,Hypoglycaemic coma,1,72,1,20141229
+DOXORUBICIN,Depressed level of consciousness,1,7,1,20141229
+DOXORUBICIN,Peripheral sensory neuropathy,1,,,20141230
+DOXORUBICIN,Chronic kidney disease,1,,,20141230
+DOXORUBICIN,Tuberculosis,1,25,1,20141224
+DOXORUBICIN,Arthritis,1,37,2,20141224
+DOXORUBICIN,Aspergilloma,1,34,1,20141224
+DOXORUBICIN,Off label use,1,,,20141230
+DOXORUBICIN,Infection,1,,,20141230
+DOXORUBICIN,Toxicity to various agents,1,,,20141224
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,79,2,20141230
+DOXORUBICIN,Infection,1,,,20141230
+DOXORUBICIN,Pulmonary embolism,1,,,20141230
+DOXORUBICIN,Alanine aminotransferase increased,1,30,2,20141231
+DOXORUBICIN,Pulmonary toxicity,1,,,20141231
+DOXORUBICIN,Leukopenia,1,,,20141231
+DOXORUBICIN,Infection,1,,,20141231
+DOXORUBICIN,Multi-organ failure,1,,,20141231
+DOXORUBICIN,Agranulocytosis,1,,,20141231
+DOXORUBICIN,Neutropenia,1,,,20141231
+DOXORUBICIN,Cardiac disorder,1,,,20141231
+DOXORUBICIN,Neutropenia,1,,,20141231
+DOXORUBICIN,Renal impairment,1,72,1,20141231
+DOXORUBICIN,Thrombocytopenia,1,,,20141231
+DOXORUBICIN,Death,1,,,20141231
+DOXORUBICIN,Acute kidney injury,1,,,20141231
+DOXORUBICIN,JC virus infection,1,,,20141231
+DOXORUBICIN,Sepsis,1,,,20141231
+DOXORUBICIN,Drug ineffective,1,,,20141231
+DOXORUBICIN,Gastrointestinal disorder,1,,,20141231
+DOXORUBICIN,Left ventricular dysfunction,1,,,20141231
+DOXORUBICIN,Sepsis,1,,,20141231
+DOXORUBICIN,Staphylococcal sepsis,1,,,20141231
+DOXORUBICIN,Aspergillus infection,1,,,20141231
+DOXORUBICIN,Breast cancer,2,34,2,20141231
+DOXORUBICIN,Lymphadenopathy,1,,,20141231
+DOXORUBICIN,Pulmonary embolism,1,84,1,20150101
+DOXORUBICIN,Pyrexia,1,73,1,20150102
+DOXORUBICIN,Chloroma (in remission),1,,,20150102
+DOXORUBICIN,Toxicity to various agents,1,65,1,20141230
+DOXORUBICIN,Headache,1,31,2,20141230
+DOXORUBICIN,Hyperkalaemia,1,49,2,20150102
+DOXORUBICIN,Skin toxicity,1,,2,20150102
+DOXORUBICIN,Blood creatinine increased,1,,,20141230
+DOXORUBICIN,Mucosal inflammation,1,10,2,20150102
+DOXORUBICIN,Interstitial lung disease,1,72,2,20150102
+DOXORUBICIN,Arrhythmia,1,,,20150104
+DOXORUBICIN,Chloroma,1,13,1,20150105
+DOXORUBICIN,Thrombocytopenia,1,,,20150105
+DOXORUBICIN,Anal abscess,1,,1,20150105
+DOXORUBICIN,Sepsis,1,5,1,20150105
+DOXORUBICIN,Plasmacytoma,1,58,1,20150105
+DOXORUBICIN,Sepsis,1,74,1,20150105
+DOXORUBICIN,Hepatotoxicity,1,,,20150106
+DOXORUBICIN,Interstitial lung disease,1,57,2,20150106
+DOXORUBICIN,Spinal fracture,1,68,1,20150106
+DOXORUBICIN,Alanine aminotransferase increased,1,30,2,20150106
+DOXORUBICIN,Neutropenia,1,,2,20150106
+DOXORUBICIN,Death,1,,,20150106
+DOXORUBICIN,Neuropathy peripheral,1,,,20150106
+DOXORUBICIN,Anaemia,1,65,2,20150106
+DOXORUBICIN,Epiglottitis,1,,1,20150106
+DOXORUBICIN,Blindness,1,77,1,20150106
+DOXORUBICIN,Cardiotoxicity,1,,,20150107
+DOXORUBICIN,Colon cancer,1,,,20150107
+DOXORUBICIN,Hypomagnesaemia,1,65,2,20150106
+DOXORUBICIN,Optic ischaemic neuropathy,1,77,1,20150105
+DOXORUBICIN,Sepsis,1,,,20150105
+DOXORUBICIN,Empyema,1,3,2,20150106
+DOXORUBICIN,Toxicity to various agents,1,,,20150105
+DOXORUBICIN,Death,1,,,20150107
+DOXORUBICIN,Death,1,,,20150107
+DOXORUBICIN,Death,1,,,20150107
+DOXORUBICIN,Pathological fracture,1,65,,20150107
+DOXORUBICIN,Pneumonia,1,,,20150108
+DOXORUBICIN,Back pain,1,63,2,20150108
+DOXORUBICIN,Cardiac failure congestive,1,,2,20150108
+DOXORUBICIN,Myelodysplastic syndrome,1,,1,20150108
+DOXORUBICIN,Tumour associated fever,1,,,20150108
+DOXORUBICIN,Subileus,1,74,2,20150108
+DOXORUBICIN,Agranulocytosis,1,59,1,20150108
+DOXORUBICIN,Febrile neutropenia,1,65,2,20150108
+DOXORUBICIN,Myelopathy,1,,1,20150106
+DOXORUBICIN,Ileus,1,63,2,20150109
+DOXORUBICIN,Acute myeloid leukaemia,1,,2,20150109
+DOXORUBICIN,Febrile neutropenia,1,75,2,20150108
+DOXORUBICIN,Pneumonia,1,72,2,20150107
+DOXORUBICIN,Chloroma,1,13,1,20150107
+DOXORUBICIN,Sudden death,1,,,20150107
+DOXORUBICIN,Sepsis,1,,,20150107
+DOXORUBICIN,Asthenia,1,,2,20150109
+DOXORUBICIN,Pyrexia,1,46,1,20150109
+DOXORUBICIN,Neutropenia,1,,,20150107
+DOXORUBICIN,Chest pain,1,59,,20150112
+DOXORUBICIN,Ejection fraction decreased,1,64,2,20150112
+DOXORUBICIN,Myocardial infarction,1,64,2,20150112
+DOXORUBICIN,Pulmonary mass,1,61,1,20150112
+DOXORUBICIN,Congestive cardiomyopathy,1,63,1,20150112
+DOXORUBICIN,Product use issue,1,28,,20150112
+DOXORUBICIN,Product use issue,1,50,,20150112
+DOXORUBICIN,Tumour lysis syndrome,1,43,,20150112
+DOXORUBICIN,Vomiting,1,,,20150112
+DOXORUBICIN,Bronchopneumonia,1,72,1,20150112
+DOXORUBICIN,Cardiac failure,1,70,1,20150112
+DOXORUBICIN,Myelodysplastic syndrome,1,11,1,20150109
+DOXORUBICIN,Lower gastrointestinal haemorrhage,1,59,1,20150109
+DOXORUBICIN,Disease recurrence,1,67,2,20150112
+DOXORUBICIN,Lung adenocarcinoma,1,75,1,20150112
+DOXORUBICIN,Disease progression,1,,,20150112
+DOXORUBICIN,Leukaemia recurrent,1,,,20150112
+DOXORUBICIN,Febrile neutropenia,1,68,2,20150112
+DOXORUBICIN,Acute myeloid leukaemia,1,67,1,20150113
+DOXORUBICIN,Sensory disturbance,1,,1,20150113
+DOXORUBICIN,N-terminal prohormone brain natriuretic peptide increased,1,,,20150113
+DOXORUBICIN,Anaemia,1,,1,20150113
+DOXORUBICIN,Posterior reversible encephalopathy syndrome,1,79,2,20150109
+DOXORUBICIN,Hypophosphataemia,1,,2,20150113
+DOXORUBICIN,Ovarian cyst,1,38,2,20150113
+DOXORUBICIN,Klebsiella test positive,1,11,2,20150112
+DOXORUBICIN,Scrotal oedema,1,76,1,20150112
+DOXORUBICIN,Death,1,,,20150113
+DOXORUBICIN,Death,1,72,,20150113
+DOXORUBICIN,Leukaemia recurrent,1,,,20150113
+DOXORUBICIN,Leukaemia recurrent,1,,,20150113
+DOXORUBICIN,Leukaemia recurrent,1,,,20150113
+DOXORUBICIN,Leukaemia recurrent,1,,,20150113
+DOXORUBICIN,Death,1,,,20150113
+DOXORUBICIN,Leukaemia recurrent,1,,,20150113
